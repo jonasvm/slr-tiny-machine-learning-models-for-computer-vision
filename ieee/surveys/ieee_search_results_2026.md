@@ -1,53 +1,119 @@
-# IEEE Xplore Search Results — Survey / SLR Collection
-Search Date: 07 March 2026  
-Database: IEEE Xplore  
+Database: IEEE Xplore
 
-Search Query:
+Search date: 07 March 2026
 
-("systematic review" OR "systematic literature review" OR survey OR "literature review")  
-AND  
-("tiny machine learning" OR TinyML OR "edge AI" OR "embedded machine learning")  
-AND  
+Search query:
+
+("systematic review" OR "systematic literature review" OR survey OR "literature review")
+AND
+("tiny machine learning" OR TinyML OR "edge AI" OR "embedded machine learning")
+AND
 ("computer vision" OR "image classification" OR "object detection")
 
-Filters Applied:
-- Content Type: Journals
-- Publication Years: 2018–2025
-- Language: English
+Filters applied:
+
+Content type: Journals  
+Publication years: 2018–2025  
+Language: English
+
+Total results returned:
+
+9 papers
+
+Selection criteria applied during screening:
+
+Inclusion criteria:
+- Papers that are surveys or systematic literature reviews
+- Papers related to TinyML, Edge AI, Embedded AI, or Computer Vision
+- Peer-reviewed journal publications
+- English language
+
+Exclusion criteria:
+- Primary research papers
+- Benchmark or case-study papers
+- Papers not presenting a review of the literature
+- Papers unrelated to TinyML, Edge AI, Embedded AI, or Computer Vision
+
+Notes:
+Title and abstract screening was used to identify relevant survey papers.
+Selected papers were downloaded for full-text methodological analysis.
 
 ---
 
-# Retrieved Papers
+# IEEE - Initial Screening Table
 
-| # | Title | Authors | Venue | Year | Citations | Type | Status |
-|---|---|---|---|---|---|---|---|
-| 1 | A Survey on Approximate Edge AI for Energy Efficient Autonomous Driving Services | Dewant Katare; Diego Perino; Jari Nurmi; Martijn Warnier; Marijn Janssen; Aaron Yi Ding | IEEE Communications Surveys & Tutorials | 2023 | 72 | Survey | Selected |
-| 2 | Small-Object Detection at the Edge: A Pareto-Efficient Benchmark of Lightweight YOLO Models on UAV and Overhead Datasets | Bijay Shakya; Omar El-Gayar; Jihene Kaabi; Khandaker Mamun Ahmed | IEEE Access | 2026 | 1 | Research / Benchmark | Pending |
-| 3 | Real-Time Apple Detection System Using Embedded Systems With Hardware Accelerators: An Edge AI Application | Vittorio Mazzia; Aleem Khaliq; Francesco Salvetti; Marcello Chiaberge | IEEE Access | 2020 | 170 | Research Article | Excluded |
-| 4 | Embedded Deep Learning Accelerators: A Survey on Recent Advances | Ghattas Akkad; Ali Mansour; Elie Inaty | IEEE Transactions on Artificial Intelligence | 2024 | 31 | Survey | Selected |
-| 5 | Communication-Efficient Edge AI: Algorithms and Systems | Yuanming Shi; Kai Yang; Tao Jiang; Jun Zhang; Khaled B. Letaief | IEEE Communications Surveys & Tutorials | 2020 | 398 | Survey | Selected |
-| 6 | Opportunities, Applications, and Challenges of Edge-AI Enabled Video Analytics in Smart Cities: A Systematic Review | Elarbi Badidi; Karima Moumane; Firdaous El Ghazi | IEEE Access | 2023 | 71 | Systematic Review | Selected |
-| 7 | A Survey on the Convergence of Edge Computing and AI for UAVs: Opportunities and Challenges | Patrick McEnroe; Shen Wang; Madhusanka Liyanage | IEEE Internet of Things Journal | 2022 | 382 | Survey | Selected |
-| 8 | AI and 6G Into the Metaverse: Fundamentals, Challenges and Future Research Trends | Muhammad Zawish; Fayaz Ali Dharejo; Sunder Ali Khowaja; Saleem Raza; Steven Davy; Kapal Dev; Paolo Bellavista | IEEE Open Journal of the Communications Society | 2024 | 144 | Survey / Review | Selected |
-| 9 | Studies on Underwater Image Processing Using Artificial Intelligence Technologies | Sugunapriya A; Markkandan S | IEEE Access | 2025 | 5 | Review | Pending |
+# | Title | Year | Type | Venue | Decision | Reason
+1 | A Survey on Approximate Edge AI for Energy Efficient Autonomous Driving Services | 2023 | survey | IEEE Communications Surveys & Tutorials | Maybe | Edge AI survey relevant to the topic, but primarily focused on autonomous driving and energy efficiency rather than TinyML or embedded computer vision
+2 | Small-Object Detection at the Edge: A Pareto-Efficient Benchmark of Lightweight YOLO Models on UAV and Overhead Datasets | 2026 | research-article | IEEE Access | Remove | Not a survey or literature review; experimental benchmark study
+3 | Real-Time Apple Detection System Using Embedded Systems With Hardware Accelerators: An Edge AI Application | 2020 | research-article | IEEE Access | Remove | Not a survey or literature review; application-specific research article
+4 | Embedded Deep Learning Accelerators: A Survey on Recent Advances | 2024 | survey | IEEE Transactions on Artificial Intelligence | Keep | Highly relevant survey on embedded deep learning accelerators and Edge AI systems
+5 | Communication-Efficient Edge AI: Algorithms and Systems | 2020 | survey | IEEE Communications Surveys & Tutorials | Keep | Important survey on edge AI systems and communication-efficient distributed learning
+6 | Opportunities, Applications, and Challenges of Edge-AI Enabled Video Analytics in Smart Cities: A Systematic Review | 2023 | systematic-review | IEEE Access | Keep | Directly related systematic review covering edge AI and video analytics
+7 | A Survey on the Convergence of Edge Computing and AI for UAVs: Opportunities and Challenges | 2022 | survey | IEEE Internet of Things Journal | Maybe | Relevant edge AI survey but focused on UAV applications rather than TinyML or embedded vision specifically
+8 | AI and 6G Into the Metaverse: Fundamentals, Challenges and Future Research Trends | 2024 | survey | IEEE Open Journal of the Communications Society | Remove | Broad survey on AI and 6G/metaverse with no focus on TinyML, embedded vision, or edge AI systems
+9 | Studies on Underwater Image Processing Using Artificial Intelligence Technologies | 2025 | review | IEEE Access | Maybe | Computer vision review relevant to imaging applications, but not specifically focused on TinyML or edge AI
 
 ---
 
-# Notes
+# Recommended Immediate Removal
 
-Selected papers are being analyzed to extract the **methodological structure of Systematic Literature Reviews (SLR)** and surveys.
+The following items can be immediately removed from the screening table because they are clearly outside the scope or not review papers:
 
-For each selected paper, the following elements will be extracted:
+- Small-Object Detection at the Edge: A Pareto-Efficient Benchmark of Lightweight YOLO Models on UAV and Overhead Datasets  
+- Real-Time Apple Detection System Using Embedded Systems With Hardware Accelerators: An Edge AI Application  
+- AI and 6G Into the Metaverse: Fundamentals, Challenges and Future Research Trends  
 
-- Review objective
-- Databases used
-- Search strings
-- Time range
-- Inclusion / exclusion criteria
-- Deduplication process
-- Screening process
-- PRISMA usage
-- Data extraction methodology
-- Quality assessment methods
+---
 
-These elements will be used to construct a **Systematic Literature Review compliance checklist** for the current survey.
+# Strong Candidates to Keep
+
+The following papers are the strongest candidates for inclusion due to their direct relevance to **Edge AI, TinyML, or efficient deep learning systems**:
+
+- Embedded Deep Learning Accelerators: A Survey on Recent Advances  
+- Communication-Efficient Edge AI: Algorithms and Systems  
+- Opportunities, Applications, and Challenges of Edge-AI Enabled Video Analytics in Smart Cities: A Systematic Review  
+
+---
+
+# Borderline / Manual Check
+
+The following studies are potentially relevant but require manual verification of their scope and methodology before final inclusion:
+
+- A Survey on Approximate Edge AI for Energy Efficient Autonomous Driving Services  
+- A Survey on the Convergence of Edge Computing and AI for UAVs: Opportunities and Challenges  
+- Studies on Underwater Image Processing Using Artificial Intelligence Technologies  
+
+---
+
+# Suggested Rule for IEEE Screening
+
+For the initial screening of IEEE Xplore search results, the following practical rule can be applied.
+
+Keep
+
+- survey  
+- systematic review  
+- literature review  
+- mapping study  
+
+and topics related to:
+
+- TinyML
+- Edge AI
+- Embedded AI
+- On-device AI
+- Lightweight deep learning
+- Efficient neural network inference
+- Deep learning hardware accelerators
+- Edge computer vision
+- Video analytics at the edge
+
+Maybe
+
+- surveys broadly discussing edge computing, hardware acceleration, UAV vision, or domain-specific computer vision
+
+Remove
+
+- research articles, benchmarks, or case studies
+- application-specific implementations
+- surveys unrelated to edge AI or computer vision
