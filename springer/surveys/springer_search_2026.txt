@@ -1,0 +1,20 @@
+Database: SpringerLink
+
+Search date: 09 March 2026
+
+Search query:
+("systematic review" OR "systematic literature review" OR survey OR "literature review")
+AND
+("tiny machine learning" OR TinyML OR "edge AI" OR "embedded machine learning")
+AND
+("computer vision" OR "image classification" OR "object detection")
+
+Filters applied:
+Content type: Article
+Language: English
+
+Sorting:
+Relevance
+
+Total results returned:
+17 articles
