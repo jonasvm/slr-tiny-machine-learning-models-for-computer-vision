@@ -1,21 +1,21 @@
-# SLR5 Analysis
+# SLR6 Analysis
 
 ## 1. Basic Information
 
 **Title:**  
-A Review on Resource-Constrained Embedded Vision Systems-Based Tiny Machine Learning for Robotic Applications
+The YOLO Framework: A Comprehensive Review of Evolution, Applications, and Benchmarks in Object Detection
 
 **Authors:**  
-Miguel Beltrán-Escobar, Teresa E. Alarcón, Jesse Y. Rumbo-Morales, Sonia López, Gerardo Ortiz-Torres, Felipe D. J. Sorcia-Vázquez
+Momina Liaqat Ali; Zhou Zhang
 
 **Year:**  
 2024
 
 **Journal / Conference:**  
-Algorithms (MDPI)
+Computers (MDPI)
 
 **Type of Review:**  
-Narrative review / State-of-the-art survey
+Literature review / survey (not a formal systematic literature review)
 
 ---
 
@@ -23,54 +23,100 @@ Narrative review / State-of-the-art survey
 
 **Main Objective of the Review**
 
-To present a state-of-the-art overview of Tiny Machine Learning (TinyML) applied to resource-constrained embedded vision systems used in robotic applications.
+Provide a comprehensive overview of the YOLO framework, including its evolution, architectural innovations, performance benchmarks, and applications across different domains.
 
 **Problem the Review Claims to Solve**
 
-Deploying machine learning and computer vision algorithms on embedded devices with limited computational resources, memory, and power consumption remains challenging, especially for real-time robotic applications.
+The literature on YOLO is widely distributed across many publications. The review aims to synthesize these studies and provide a unified understanding of YOLO’s evolution, strengths, limitations, and practical applications.
 
 **Scope**
 
-- TinyML
-- Embedded vision systems
-- Robotics
-- Edge AI
-- Resource-constrained hardware platforms
+Computer vision — specifically:
+
+- Object detection
+- YOLO architecture evolution
+- Deep learning–based detection systems
 
 **Main Contributions Claimed by the Authors**
 
-- A state-of-the-art review of TinyML implementations in embedded vision systems.
-- Classification of embedded platforms according to hardware architecture, vision sensors, power consumption, and software platforms.
-- Comparative analysis of low-cost embedded hardware used for TinyML.
-- Demonstration of a TinyML implementation on three embedded devices.
+- Overview of YOLO evolution up to YOLOv11
+- Benchmark-based evaluation of different YOLO versions
+- Analysis of applications in domains such as healthcare, agriculture, autonomous systems, and industrial automation
+- Discussion of ethical considerations related to YOLO deployment
+- Identification of future research directions
 
 ---
 
 # 3. Search Methodology
 
-**Databases Used**
+## Databases Used
 
-Not reported.
+The literature search considered publications from:
 
-**Search Strings**
+- IEEE Xplore
+- SpringerLink
+- Google Scholar
 
-Not reported.
+The authors also considered publications from major venues such as:
 
-**Time Range**
+- CVPR
+- ICCV
+- ECCV
 
-Not reported.
+Additionally, journals referenced include:
 
-**Study Types Included**
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Computer Vision and Image Understanding
+- Journal of Machine Learning Research
+- International Journal of Computer Vision
+- Journal of Artificial Intelligence Research
+
+---
+
+## Search Strings
+
+Exact search queries: **Not reported**
+
+The paper only mentions the use of Boolean searches with terms such as:
+
+- "object detection"
+- "YOLO"
+- "deep learning"
+- "neural networks"
+
+---
+
+## Time Range
 
 Not reported.
 
 ---
 
+## Study Types Included
+
+Implicitly included:
+
+- Journal articles
+- Conference papers
+
+Preprints and other document types are not explicitly discussed.
+
+---
+
 # 4. Inclusion and Exclusion Criteria
 
-Not reported.
+## Inclusion Criteria
 
-The authors do not explicitly define formal inclusion or exclusion criteria for selecting studies.
+- Studies providing detailed analysis of YOLO architecture and methodologies
+- Highly cited and influential research papers
+- Studies presenting empirical results using YOLO
+- Articles discussing both strengths and limitations of YOLO
+
+## Exclusion Criteria
+
+- Papers that only briefly mention YOLO without technical analysis
+- Studies without meaningful methodological or application contributions
+- Duplicate or redundant publications
 
 ---
 
@@ -78,117 +124,112 @@ The authors do not explicitly define formal inclusion or exclusion criteria for 
 
 **Duplicate Removal**
 
-Not reported.
+Yes. Duplicate publications were removed during screening.
 
-**Title/Abstract Screening**
+**Title Screening**
 
-Not reported.
+Yes. Titles were reviewed to remove papers unrelated to YOLO or object detection.
+
+**Abstract Screening**
+
+Yes. Abstracts were analyzed to evaluate relevance to YOLO architecture, applications, or comparative analysis.
 
 **Full-Text Screening**
 
-Not reported.
+Yes. After filtering, 135 papers were selected for full-text review.
 
-**Selection Process Description**
+**Selection Process**
 
-The paper reviews prior work related to TinyML, embedded systems, and robotics, but the study selection procedure is not described using a systematic process.
+1. Initial search returned approximately **53,200 articles**
+2. Title screening removed unrelated studies
+3. Abstract screening refined the pool
+4. Inclusion and exclusion criteria applied
+5. **135 papers selected for detailed review**
 
 ---
 
 # 6. PRISMA or Selection Flow
 
-**PRISMA Used**
-
-No.
-
-**Paper Counts Reported at Each Stage**
+**PRISMA Diagram**
 
 Not reported.
 
-**Stages of Filtering**
+**Selection Flow Diagram**
 
 Not reported.
+
+**Counts of Papers at Each Stage**
+
+Partially reported:
+
+- Initial search: 53,200 papers
+- Final selected papers: 135
+
+Intermediate counts are not provided.
 
 ---
 
 # 7. Data Extraction Method
 
-The review extracts technical characteristics of embedded systems and TinyML implementations.
+Selected papers were coded according to several dimensions:
 
-Extracted information includes:
+- Architectural innovations
+  - backbone
+  - neck
+  - head
+  - innovations across YOLO versions
 
-- CPU architecture
-- System-on-Chip (SoC)
-- Flash memory
-- SRAM memory
-- CPU frequency
-- Vision sensor type
-- Frame rate (FPS)
-- Image resolution
-- Power consumption
-- Operating voltage
-- Supported programming languages
-- Development frameworks
-- Operating systems
-- Embedded machine learning libraries
-- Application domain (robotics / embedded vision)
+- Training strategies
+  - data augmentation
+  - transfer learning
+  - optimization methods
+
+- Performance metrics
+  - mAP (mean Average Precision)
+  - FPS (Frames Per Second)
+  - computational cost / FLOPs
+
+- Application domains
+  - medical imaging
+  - autonomous driving
+  - agriculture
+  - industrial systems
 
 ---
 
 # 8. Quality Assessment / Risk of Bias
 
-**Quality Assessment Performed**
+Quality assessment: **Not reported**
 
-No.
+The paper does not describe:
 
-**Quality Assessment Method**
-
-Not reported.
-
-**Number of Criteria**
-
-Not reported.
+- risk-of-bias evaluation
+- scoring rubric
+- methodological quality assessment of studies.
 
 ---
 
 # 9. Types of Analysis Used
 
-The literature is synthesized through:
+The literature is synthesized using:
 
-**Narrative Synthesis**
-
-Discussion of TinyML developments and embedded vision systems.
-
-**Taxonomy / Classification**
-
-Embedded systems are categorized based on:
-
-- CPU architecture (ARM vs RISC-V)
-- Vision sensor type
-- Power consumption
-- Software ecosystem
-
-**Comparative Tables**
-
-Multiple tables comparing hardware platforms and system characteristics.
-
-**Experimental Demonstration**
-
-The paper includes a TinyML implementation example deployed on embedded devices.
+- Narrative synthesis of research developments
+- Comparative analysis of YOLO versions
+- Categorization of studies by architecture and applications
+- Benchmark comparisons across datasets
+- Trend analysis of YOLO evolution
 
 ---
 
 # 10. Figures and Tables Used in the Review
 
-Typical figures and tables include:
+Examples of figures and tables used in the paper:
 
-- Hardware architecture comparison tables
-- Embedded device specification tables
-- Vision sensor comparison tables
-- Power consumption comparison tables
-- Software platform comparison tables
-- TinyML workflow diagrams
-- Neural network architecture diagrams
-- Embedded system architecture diagrams
+- Tables summarizing YOLO versions and their methodologies
+- Performance comparison tables
+- Benchmark evaluation tables
+- Architectural diagrams of YOLO models
+- Tables summarizing application domains
 
 ---
 
@@ -196,43 +237,44 @@ Typical figures and tables include:
 
 The authors suggest:
 
-- Using low-cost embedded hardware platforms for robotics applications.
-- Applying model compression techniques to fit machine learning models into constrained devices.
-- Carefully selecting hardware platforms based on memory, clock speed, and energy consumption.
-- Optimizing models to reduce latency and improve real-time performance.
+- Improving YOLO performance for small object detection
+- Increasing robustness under environmental variability
+- Reducing computational costs for edge deployment
+- Addressing ethical issues such as privacy and dataset bias
+- Expanding evaluation using real-world datasets
 
 ---
 
 # 12. Limitations of the Review
 
-Reported or implied limitations include:
+The authors mention several limitations:
 
-- Limited computational resources available on embedded systems.
-- Memory constraints affecting model size.
-- Latency challenges for real-time embedded vision systems.
-- Difficulty deploying complex deep learning models on microcontrollers.
+- Heavy reliance on open-source datasets
+- Limited comparison with other object detection frameworks
+- Evaluation performed with fixed training epochs
+- Possible dataset bias affecting results and generalizability
 
 ---
 
 # 13. Methodological Strengths of This Review
 
-- Clear taxonomy for embedded TinyML systems.
-- Detailed hardware comparison tables.
-- Integration of hardware, software, and ML perspectives.
-- Practical TinyML implementation example.
-- Comprehensive overview of embedded platforms for robotics.
+- Large initial literature search pool
+- Use of multiple academic databases
+- Explicit inclusion and exclusion criteria
+- Multi-stage screening process
+- Structured classification of studies
+- Use of benchmark comparisons
 
 ---
 
 # 14. Potential Methodological Weaknesses
 
-- Not a formal Systematic Literature Review.
-- No database search strategy described.
-- No search strings reported.
-- No inclusion/exclusion criteria.
-- No PRISMA selection flow.
-- No quality assessment of studies.
-- Literature selection process is not reproducible.
+- Not a true systematic literature review
+- Search strings not fully reported
+- No time window specified
+- No PRISMA diagram
+- No quality assessment of included studies
+- Partial reporting of the screening process
 
 ---
 
@@ -240,14 +282,14 @@ Reported or implied limitations include:
 
 SLR Methodology Checklist:
 
-[ ] Multiple databases used  
+[✓] Multiple databases used  
 [ ] Search strings reported  
 [ ] Time window defined  
-[ ] Inclusion/exclusion criteria defined  
-[ ] Deduplication described  
+[✓] Inclusion/exclusion criteria defined  
+[✓] Deduplication described  
 [ ] PRISMA flow diagram used  
-[ ] Data extraction fields defined  
+[✓] Title/abstract screening described  
 [ ] Quality assessment performed  
-[X] Comparative tables included  
-[X] Quantitative or experimental analysis included  
-[X] Taxonomy/classification framework provided
+[✓] Data extraction fields defined  
+[✓] Comparative tables included  
+[✓] Quantitative benchmark comparisons included
