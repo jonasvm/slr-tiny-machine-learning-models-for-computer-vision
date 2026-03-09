@@ -1,0 +1,47 @@
+Database: ACM Digital Library
+
+Search date: 08 March 2026
+
+Search query:
+Title:("systematic review" OR survey OR "literature review")
+AND
+("edge AI" OR TinyML OR "embedded machine learning")
+
+Filters applied:
+Content type: Journals and Surveys 
+Language: English
+
+Sorting:
+Relevance
+
+Total results returned:
+77 papers
+
+Selection criteria applied during screening:
+
+Inclusion criteria:
+- Papers that are surveys or systematic literature reviews
+- Papers related to TinyML, Edge AI, Embedded AI, or Computer Vision
+- Peer-reviewed journal publications
+- English language
+
+Exclusion criteria:
+- Primary research papers
+- Papers not presenting a review of the literature
+- Papers unrelated to TinyML, Edge AI, Embedded AI, or Computer Vision
+- Posters, short papers, work-in-progress papers, panels, and educational resources
+
+Notes:
+Title and abstract screening was used to identify relevant survey papers from the ACM Digital Library search results.
+Many results corresponded to primary research articles, short papers, posters, or surveys outside the scope of TinyML, Edge AI, or computer vision, and were excluded during the screening phase.
+
+After screening, the following papers were retained for full-text methodological analysis:
+
+1. Software engineering approaches for TinyML based IoT embedded vision: a systematic literature review  
+2. From Tiny Machine Learning to Tiny Deep Learning: A Survey  
+3. Intelligence at the Extreme Edge: A Survey on Reformable TinyML  
+4. Lightweight Deep Learning for Resource-Constrained Environments: A Survey  
+5. Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models  
+6. Early-Exit Deep Neural Network - A Comprehensive Survey  
+7. Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey  
+8. Machine Learning at the Network Edge: A Survey
