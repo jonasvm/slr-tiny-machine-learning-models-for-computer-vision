@@ -1,58 +1,52 @@
-# SLR3 Analysis
+# SLR5 Analysis
 
 ## 1. Basic Information
 
-**Title:**
-Tiny Machine Learning: Progress and Futures
+**Title:**  
+A Review on Resource-Constrained Embedded Vision Systems-Based Tiny Machine Learning for Robotic Applications
 
-**Authors:**
-Ji Lin; Ligeng Zhu; Wei-Ming Chen; Wei-Chen Wang; Song Han
+**Authors:**  
+Miguel Beltrán-Escobar, Teresa E. Alarcón, Jesse Y. Rumbo-Morales, Sonia López, Gerardo Ortiz-Torres, Felipe D. J. Sorcia-Vázquez
 
-**Year:**
-2023
+**Year:**  
+2024
 
-**Journal / Conference:**
-IEEE Circuits and Systems Magazine
+**Journal / Conference:**  
+Algorithms (MDPI)
 
-**Type of Review:**
-Narrative survey / perspective review (not a formal systematic literature review)
+**Type of Review:**  
+Narrative review / State-of-the-art survey
 
 ---
 
-## 2. Scope and Purpose of the Review
+# 2. Scope and Purpose of the Review
 
 **Main Objective of the Review**
 
-To review the progress of Tiny Machine Learning (TinyML) and present techniques that enable deep learning on extremely resource-constrained devices such as microcontrollers.
+To present a state-of-the-art overview of Tiny Machine Learning (TinyML) applied to resource-constrained embedded vision systems used in robotic applications.
 
 **Problem the Review Claims to Solve**
 
-Running and training deep learning models on microcontrollers is difficult due to severe constraints such as:
-
-* extremely limited SRAM
-* limited flash storage
-* low computational capacity
-* lack of traditional OS/runtime environments
+Deploying machine learning and computer vision algorithms on embedded devices with limited computational resources, memory, and power consumption remains challenging, especially for real-time robotic applications.
 
 **Scope**
 
-* TinyML
-* Edge AI
-* Efficient deep learning for microcontrollers
-* On-device training
-* Algorithm–system co-design for embedded ML
+- TinyML
+- Embedded vision systems
+- Robotics
+- Edge AI
+- Resource-constrained hardware platforms
 
 **Main Contributions Claimed by the Authors**
 
-* Overview of the TinyML research landscape
-* Discussion of algorithmic and system techniques enabling TinyML
-* Presentation of the MCUNet framework
-* Description of methods for TinyML inference and training
-* Identification of future research challenges in TinyML
+- A state-of-the-art review of TinyML implementations in embedded vision systems.
+- Classification of embedded platforms according to hardware architecture, vision sensors, power consumption, and software platforms.
+- Comparative analysis of low-cost embedded hardware used for TinyML.
+- Demonstration of a TinyML implementation on three embedded devices.
 
 ---
 
-## 3. Search Methodology
+# 3. Search Methodology
 
 **Databases Used**
 
@@ -68,55 +62,45 @@ Not reported.
 
 **Study Types Included**
 
-Not explicitly defined.
-
-The paper references:
-
-* journal articles
-* conference papers
-* arXiv preprints
-* system frameworks
-
-but does not formally define study types.
+Not reported.
 
 ---
 
-## 4. Inclusion and Exclusion Criteria
+# 4. Inclusion and Exclusion Criteria
 
 Not reported.
 
-The paper does not define explicit inclusion or exclusion criteria.
+The authors do not explicitly define formal inclusion or exclusion criteria for selecting studies.
 
 ---
 
-## 5. Deduplication and Screening Process
+# 5. Deduplication and Screening Process
 
 **Duplicate Removal**
 
 Not reported.
 
-**Title / Abstract Screening**
+**Title/Abstract Screening**
 
 Not reported.
 
-**Full-text Screening**
+**Full-Text Screening**
 
 Not reported.
 
-**Selection Process**
+**Selection Process Description**
 
-The paper does not describe a formal study selection process.
-Papers appear to have been selected manually based on relevance to TinyML.
+The paper reviews prior work related to TinyML, embedded systems, and robotics, but the study selection procedure is not described using a systematic process.
 
 ---
 
-## 6. PRISMA or Selection Flow
+# 6. PRISMA or Selection Flow
 
 **PRISMA Used**
 
 No.
 
-**Counts of Papers at Each Stage**
+**Paper Counts Reported at Each Stage**
 
 Not reported.
 
@@ -126,32 +110,37 @@ Not reported.
 
 ---
 
-## 7. Data Extraction Method
+# 7. Data Extraction Method
 
-The paper does not explicitly describe a data extraction protocol.
+The review extracts technical characteristics of embedded systems and TinyML implementations.
 
-However, comparison tables extract technical attributes such as:
+Extracted information includes:
 
-* model architecture
-* dataset used
-* input resolution
-* inference latency
-* peak memory usage
-* flash storage usage
-* energy consumption
-* accuracy metrics
-
-These attributes appear in benchmark comparison tables.
+- CPU architecture
+- System-on-Chip (SoC)
+- Flash memory
+- SRAM memory
+- CPU frequency
+- Vision sensor type
+- Frame rate (FPS)
+- Image resolution
+- Power consumption
+- Operating voltage
+- Supported programming languages
+- Development frameworks
+- Operating systems
+- Embedded machine learning libraries
+- Application domain (robotics / embedded vision)
 
 ---
 
-## 8. Quality Assessment / Risk of Bias
+# 8. Quality Assessment / Risk of Bias
 
 **Quality Assessment Performed**
 
 No.
 
-**Assessment Method**
+**Quality Assessment Method**
 
 Not reported.
 
@@ -161,95 +150,104 @@ Not reported.
 
 ---
 
-## 9. Types of Analysis Used
+# 9. Types of Analysis Used
 
-The paper synthesizes the literature using:
+The literature is synthesized through:
 
-* narrative synthesis of TinyML research progress
-* taxonomy of techniques and system approaches
-* comparative benchmarking tables
-* experimental evaluation of proposed methods
-* trend discussion and future research directions
+**Narrative Synthesis**
+
+Discussion of TinyML developments and embedded vision systems.
+
+**Taxonomy / Classification**
+
+Embedded systems are categorized based on:
+
+- CPU architecture (ARM vs RISC-V)
+- Vision sensor type
+- Power consumption
+- Software ecosystem
+
+**Comparative Tables**
+
+Multiple tables comparing hardware platforms and system characteristics.
+
+**Experimental Demonstration**
+
+The paper includes a TinyML implementation example deployed on embedded devices.
 
 ---
 
-## 10. Figures and Tables Used in the Review
+# 10. Figures and Tables Used in the Review
 
 Typical figures and tables include:
 
-* comparison tables of TinyML frameworks
-* performance benchmarking tables (latency, memory, accuracy)
-* architecture diagrams
-* workflow diagrams
-* performance trade-off graphs (accuracy vs memory or latency)
+- Hardware architecture comparison tables
+- Embedded device specification tables
+- Vision sensor comparison tables
+- Power consumption comparison tables
+- Software platform comparison tables
+- TinyML workflow diagrams
+- Neural network architecture diagrams
+- Embedded system architecture diagrams
 
 ---
 
-## 11. Practical Recommendations
+# 11. Practical Recommendations
 
-The authors highlight several recommendations for TinyML research:
+The authors suggest:
 
-* design neural networks jointly with system constraints
-* develop memory-aware neural architectures
-* optimize inference engines for microcontrollers
-* enable lightweight on-device training techniques
-* adopt algorithm–system co-design approaches
-
----
-
-## 12. Limitations of the Review
-
-The paper does not explicitly list methodological limitations.
-
-However, implicit limitations include:
-
-* absence of systematic literature search
-* lack of reproducible methodology
-* no study selection protocol
-* no quality assessment of studies
-* strong focus on the authors’ own framework (MCUNet)
+- Using low-cost embedded hardware platforms for robotics applications.
+- Applying model compression techniques to fit machine learning models into constrained devices.
+- Carefully selecting hardware platforms based on memory, clock speed, and energy consumption.
+- Optimizing models to reduce latency and improve real-time performance.
 
 ---
 
-## 13. Methodological Strengths of This Review
+# 12. Limitations of the Review
 
-Although not a formal SLR, the paper provides:
+Reported or implied limitations include:
 
-* a comprehensive overview of TinyML techniques
-* detailed benchmark comparisons
-* clear taxonomy of system and algorithm approaches
-* extensive experimental validation
-* insights into future research challenges
-
----
-
-## 14. Potential Methodological Weaknesses
-
-From an SLR perspective, the following limitations exist:
-
-* no database search strategy
-* no search strings reported
-* no inclusion/exclusion criteria
-* no PRISMA flow diagram
-* no systematic screening process
-* no quality assessment
-* potential selection bias
+- Limited computational resources available on embedded systems.
+- Memory constraints affecting model size.
+- Latency challenges for real-time embedded vision systems.
+- Difficulty deploying complex deep learning models on microcontrollers.
 
 ---
 
-## 15. Extracted SLR Methodology Checklist
+# 13. Methodological Strengths of This Review
+
+- Clear taxonomy for embedded TinyML systems.
+- Detailed hardware comparison tables.
+- Integration of hardware, software, and ML perspectives.
+- Practical TinyML implementation example.
+- Comprehensive overview of embedded platforms for robotics.
+
+---
+
+# 14. Potential Methodological Weaknesses
+
+- Not a formal Systematic Literature Review.
+- No database search strategy described.
+- No search strings reported.
+- No inclusion/exclusion criteria.
+- No PRISMA selection flow.
+- No quality assessment of studies.
+- Literature selection process is not reproducible.
+
+---
+
+# 15. Extracted SLR Methodology Checklist
 
 SLR Methodology Checklist:
 
-* [ ] Multiple databases used
-* [ ] Search strings reported
-* [ ] Time window defined
-* [ ] Inclusion/exclusion criteria defined
-* [ ] Deduplication described
-* [ ] PRISMA flow diagram used
-* [ ] Data extraction fields defined
-* [ ] Quality assessment performed
-* [x] Comparative tables included
-* [x] Quantitative benchmarking included
-* [x] Narrative synthesis
-* [x] Taxonomy of techniques
+[ ] Multiple databases used  
+[ ] Search strings reported  
+[ ] Time window defined  
+[ ] Inclusion/exclusion criteria defined  
+[ ] Deduplication described  
+[ ] PRISMA flow diagram used  
+[ ] Data extraction fields defined  
+[ ] Quality assessment performed  
+[X] Comparative tables included  
+[X] Quantitative or experimental analysis included  
+[X] Taxonomy/classification framework provided
