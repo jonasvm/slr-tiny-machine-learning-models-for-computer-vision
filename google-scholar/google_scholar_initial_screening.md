@@ -87,3 +87,18 @@
 | GS58 | Edge AI in Practice: A Survey and Deployment Framework for Neural Networks on Embedded Systems | 2025 | Survey | MDPI Electronics | Include |
 | GS59 | Federated Learning and TinyML for Localization: Benefits, Applications, and Challenges | 2025 | Review | Unknown | Exclude |
 | GS60 | The Impact of Integrating Artificial Intelligence Techniques Into Data Fusion for Wireless Sensor Networks: A Systematic Literature Review | 2025 | Systematic Review | IEEE Conference | Exclude |
+
+## Google Scholar — Page 7
+
+| ID | Title | Year | Type | Source | Decision |
+|----|------|------|------|--------|---------|
+| GS61 | Efficient hardware architectures for accelerating deep neural networks: Survey | 2022 | Survey | IEEE | Exclude |
+| GS62 | Systematic literature review of machine learning models and applications for text recognition | 2025 | Systematic Review | IEEE | Exclude |
+| GS63 | Application of machine learning for real-time water quality monitoring in developing countries: A review | 2025 | Review | Elsevier | Exclude |
+| GS64 | A Review on Edge AI for Low-Latency Health Monitoring in Wearable IoT Devices | 2025 | Review | Unknown | Exclude |
+| GS65 | A survey of machine learning in edge computing: Techniques, frameworks, applications, issues, and research directions | 2024 | Survey | MDPI | Exclude |
+| GS66 | Edge Artificial Intelligence for Internet of Things: A Comprehensive Review of Trends, Challenges, and Emerging Directions | 2025 | Review | Preprint | Exclude |
+| GS67 | A Survey on Privacy Preservation Techniques in IoT Systems | 2025 | Survey | MDPI | Exclude |
+| GS68 | Internet of Intelligent Things: A convergence of embedded systems, edge computing and machine learning | 2024 | Survey | Elsevier | Exclude |
+| GS69 | A comprehensive survey of deep learning-based lightweight object detection models for edge devices | 2024 | Survey | Springer | Exclude |
+| GS70 | Sustainable Futures – Machine learning for water quality monitoring | 2025 | Review | Elsevier | Exclude |
