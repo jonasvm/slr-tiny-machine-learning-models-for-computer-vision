@@ -297,3 +297,303 @@
 | Stress Detection Using Machine Learning and Deep Learning Techniques: A Systematic Review and Meta-Analysis | Exclude |
 | A systematic literature review of innovations, challenges, and future directions in telemonitoring and wearable health technologies | Exclude |
 | A survey of technologies and recent developments for sustainable smart cycling | Exclude |
+
+## Google Scholar — Page 21
+
+| Title | Decision |
+|------|---------|
+| A survey on computation offloading and current trends | Exclude |
+| Machine Learning for Photovoltaic Power Forecasting Integrated with Energy Storage Systems: A Scientometric Analysis, Systematic Review, and Meta-Analysis | Exclude |
+| A survey of multi-sensor fusion perception for embodied AI: Background, methods, challenges and prospects | Exclude |
+| Applications of domain generalization to machine fault diagnosis: A survey | Exclude |
+| A Systematic Literature review of Cyber security monitoring in Maritime | Exclude |
+| A Systematic Review of Security Vulnerabilities in Smart Home Devices and Mitigation Techniques | Exclude |
+| Neuro-symbolic AI in 2024: A systematic review | Exclude |
+| Fostering Inexperienced User Participation in ML-Based Systems Design: A Literature Review of Visual Language Tools | Exclude |
+| Green AI: A Comprehensive Survey on Sustainable and Eco-Efficient Artificial Intelligence Practices | Exclude |
+| Unidirectional Communications in Secure IoT Systems—A Survey | Exclude |
+
+## Google Scholar — Page 22
+
+| Title | Decision |
+|------|---------|
+| Federated learning in UAV-assisted MEC systems: A comprehensive survey | Exclude |
+| Quality-focused Internet of Things data management: A survey, perspectives, open issues, and challenges | Exclude |
+| Body-area capacitive or electric field sensing for human activity recognition and human-computer interaction: A comprehensive survey | Exclude |
+| Vehicular intrusion detection system for controller area network: A comprehensive survey and evaluation | Exclude |
+| Design of intelligent vehicular and sensor communication network: A comprehensive survey | Exclude |
+| Harnessing artificial intelligence for data-driven energy predictive analytics: A systematic survey towards enhancing sustainability | Exclude |
+| LPWAN and embedded machine learning as enablers for the next generation of wearable devices | Exclude |
+| A comprehensive systematic survey of IoT protocols: Implications for data quality and performance | Exclude |
+| Systematic Literature Review: Machine Learning Approaches in Cervical Cancer Prediction | Exclude |
+| Integrating Deep Learning Into Mechanical Engineering: A Systematic Review of Applications and Educational Implications | Exclude |
+
+## Google Scholar — Page 23
+
+| Title | Decision |
+|------|---------|
+| AI-Driven Digital Twins in Industrialized Offsite Construction: A Systematic Review | Exclude |
+| Efficient Deep Learning: A Survey of Model Compression and Optimization Techniques for Resource-Constrained Environments | Exclude |
+| Towards AI-Enabled Model-Driven Architecture: Systematic Literature Review | Exclude |
+| Toward a sustainable low-altitude economy: A survey of energy-efficient RIS-UAV networks | Exclude |
+| Artificial Intelligence in Sleep Bruxism Diagnosis and Treatment | Exclude |
+| Integrating LPWAN technologies in the 5G ecosystem: A survey on security challenges and solutions | Exclude |
+| Federated Learning for Surveillance Systems: A Literature Review and AHP Expert-Based Evaluation | Exclude |
+| Metaheuristic Optimization for Energy Efficiency and Lifetime Extension in Wireless Sensor Networks: A Comprehensive Survey | Exclude |
+| Intrusion Detection Systems for Enhanced Security in Mobile Edge Computing: A Systematic Review and Survey | Exclude |
+| A Research Survey on Network Intrusion Detection for AIoT | Exclude |
+
+## Google Scholar — Page 24
+
+| Title | Decision |
+|------|---------|
+| A Survey on IEEE 802.11 bn Wi-Fi 8: Advantages of Ultra High Reliability for Next-Generation Wireless LANs | Exclude |
+| Toward Approximate Computing for Deep Learning in Embedded Systems: A Systematic Literature Review | Exclude |
+| Autonomy in socially assistive robotics: a systematic review | Exclude |
+| A comprehensive survey on integration of machine learning with secure blockchain-based applications | Exclude |
+| A survey on off-chain networks: Frameworks, technologies, solutions and challenges | Exclude |
+| Recent innovations in footwear and the role of smart footwear in healthcare—a survey | Exclude |
+| IoT and AI-Driven Approaches for Energy Optimization in Off-Grid Solar Systems | Exclude |
+| Wearable sensors-based intelligent sensing and application of animal behaviors: A comprehensive review | Exclude |
+| Vulnerabilities and Layered Security Threats in LoRaWAN Systems: A Comprehensive Survey on Physical, MAC, and Application Layer Weaknesses | Exclude |
+| Cognitive edge computing: A comprehensive survey on optimizing large models and AI agents for pervasive deployment | Exclude |
+
+## Google Scholar — Page 25
+
+| Title | Decision |
+|------|---------|
+| A systematic review of spiking neural networks for human-robot interaction in rehabilitative wearable robotics | Exclude |
+| The past, present, and future of research on the continuous development of AI | Exclude |
+| How AI Improves Sustainable Chicken Farming: A Literature Review of Welfare, Economic, and Environmental Dimensions | Exclude |
+| Cyber-physical systems for smart farming: A systematic review | Exclude |
+| A survey on blood pressure measurement technologies: addressing potential sources of bias | Exclude |
+| Performance Monitoring of Photovoltaic Modules Using Machine‐Learning‐Based Solutions: A Survey of Current Trends | Exclude |
+| Post-quantum cryptography and quantum-safe security: A comprehensive survey | Exclude |
+| A Systematic Review for Ammonia Monitoring Systems Based on the Internet of Things | Exclude |
+| A survey of deep reinforcement learning techniques for Energy-efficient green cloud computing | Exclude |
+| Systematic literature review of generative AI and IoT as key technologies for precision agriculture | Exclude |
+
+## Google Scholar — Page 26
+
+| Title | Decision |
+|------|---------|
+| AI-Powered Data Analytics for IoT Systems: A Review on Efficient Processing at the Edge and Beyond | Exclude |
+| Multimedia transmission over LoRa networks for IoT applications: A survey of strategies, deployments, and open challenges | Exclude |
+| Cognitive Internet of Things: A review of theory, applications, and recent advances | Exclude |
+| An analysis of research trends on the metaverse using BERTopic modeling | Exclude |
+| Myoelectric Prosthetic Hands: A Review of Muscle Synergy, Machine Learning and Edge Computing | Exclude |
+| Application of Artificial Intelligence (AI) and Internet of Things (IoT) in Smart Agriculture—A Systematic Review | Exclude |
+| ANOMALY-BASED INTRUSION DETECTION IN VEHICULAR NETWORKS USING GATED RECURRENT UNIT DEEP LEARNING MODEL—A SYSTEMATIC REVIEW | Exclude |
+| Data-driven analytics for reliability in the buildings-to-grid integrated system framework: a systematic text-mining-assisted literature review and trend analysis | Exclude |
+| Digital traceability in horticulture: A systematic review of edge-cloud-blockchain-terminal (ECBT) integration with IoT and AI technologies | Exclude |
+| On-device ML For the Current and the Emerging Networks: A Survey on Current Approaches and Challenges | Exclude |
+
+## Google Scholar — Page 27
+
+| Title | Decision |
+|------|---------|
+| Lightweight and Intelligent DDoS Detection for IoT Networks: A Comprehensive Survey, Comparative Benchmark, and Research Roadmap | Exclude |
+| Artificial intelligence in electroencephalography: A comprehensive survey of methods, challenges, and applications | Exclude |
+| Deep Learning in the Metaverse: A Systematic Literature Review and Future Perspectives | Exclude |
+| Federated learning in convergence ICT: a systematic review on recent advancements, challenges, and future directions | Exclude |
+| A survey on artificial intelligence and robotic systems in biomedical applications: challenges and future prospects | Exclude |
+| Survey on Pain Detection Using Machine Learning Models: Narrative Review | Exclude |
+| Leveraging blockchain technology to augment food waste reduction in food supply chain: a systematic review | Exclude |
+| Harvesting insights on AI-driven technologies in modern agriculture: a systematic literature review | Exclude |
+| A systematic literature review of artificial intelligence methods applied to the Human Epidemic (Covid-19) | Exclude |
+| Physiological Sensing and Machine Learning Approaches Toward Anxiety Detection: A Systematic Review | Exclude |
+
+## Google Scholar — Page 28
+
+| Title | Decision |
+|------|---------|
+| A Comprehensive Survey of Micro Datacenter: Current Technologies and Future Possibilities | Exclude |
+| Social media analytics for investigations: A survey of recent trends, challenges and future research direction | Exclude |
+| Vendor risk management in cloud-centric architectures: A systematic review of soc 2, Fedramp, and ISO 27001 practices | Exclude |
+| Enabling Cooperative Autonomy in UUV Clusters: A Survey of Robust State Estimation and Information Fusion Techniques | Exclude |
+| A Survey on Handover Techniques, Challenges, and Evolving Solutions for FANETs | Exclude |
+| On the adoption of modern technologies to fight the COVID-19 pandemic: a technical synthesis of latest developments | Exclude |
+| IoT in Smart Urban Planning: A Comprehensive Review of Applications, Developments and Engineering Perspectives | Exclude |
+| AI-DRIVEN PRIVACY AND SECURITY FRAMEWORKS FOR SMART HOMES: A COMPREHENSIVE SURVEY | Exclude |
+| A review of smart crop technologies for resource constrained environments: Leveraging multimodal data fusion, edge-to-cloud computing, and IoT | Exclude |
+| A Comprehensive Review of Vision and IoT Based Smart Soil Nutrient and Crop Monitoring: Challenges and Opportunities | Exclude |
+
+## Google Scholar — Page 29
+
+| Title | Decision |
+|------|---------|
+| Machine learning innovations in code generation: A systematic literature review of methods, challenges and directions | Exclude |
+| Collecting, Integrating and Processing IoT Sensor Data on Edge Devices for PD Monitoring: A Scoping Review | Exclude |
+| FROM 5G TO 6G: LARGE LANGUAGE MODELS TO SMALL LANGUAGE MODELS, ANTENNAS TO FLUID ANTENNA SYSTEMS—A COMPREHENSIVE SURVEY | Exclude |
+| The Narratives of Transparency in Food Supply Chain Digitalisation: A Systematic Literature Review | Exclude |
+| Systematic Literature Review on Merging AI-Based Wildfire Detection with Bee Bioacoustics: A Hybrid Environmental Sensing Approach | Exclude |
+| Detection of Sleep Apnea Using Wearable Artificial Intelligence: Systematic Review and Meta-Analysis | Exclude |
+| Analysing MLOps and its Applicability in the Maritime Domain through a Systematic Mapping Study | Exclude |
+| Role of Artificial Intelligence in P2P Energy Trading for Transforming Smart Homes to Smart Cities: A Comprehensive Survey | Exclude |
+| A Survey on LoRaWAN MAC Schemes: From Conventional Solutions To AI-driven Protocols | Exclude |
+| Operationalizing transparency in supply chains using a systematic literature review and graph theoretic approach | Exclude |
+
+## Google Scholar — Page 30
+
+| Title | Decision |
+|------|---------|
+| Evaluating self-sovereign identity solutions for agricultural supply chains: a systematic review | Exclude |
+| Blockchain-Based Accountability: A Systematic Literature Review | Exclude |
+| Access Control in Healthcare IoT: A Comprehensive Survey | Exclude |
+| Remote monitoring for the management of spasticity: challenges, opportunities and proposed technological solution | Exclude |
+| D2.3 OPTIMAI — State of the art survey | Exclude |
+| Techniques of Machine Learning to Eliminate Meteorological Dependencies in Solar Power Forecasting in Ecuador: Systematic Review | Exclude |
+| Democratizing Enterprise AI Success Factors and Challenges: A Systematic Literature Review and a Proposed Framework | Exclude |
+| A Systematic Review of Functional Requirements, Modelling Practices, and Validation Strategies in IoT Application Development | Exclude |
+| On-Board Unit Security in VANET: Challenges and Countermeasures against DDoS Attacks | Exclude |
+| Exploring frugal innovation's contribution on the manufacturing companies: an in-depth systematic review | Exclude |
+
+## Google Scholar — Page 31
+
+| Title | Decision |
+|------|---------|
+| Trends in intelligent communication systems: Review of standards, major research projects, and identification of research gaps | Exclude |
+| Literature Review on the Current State-of-the-Art in Research and Technological Advancements in the Field of Machine Learning Applied to Predictive Maintenance | Exclude |
+| Integrating Federated Transfer Learning and Blockchain to Enhance IoT Security: A Comprehensive Survey | Exclude |
+| Model Watermarking Techniques for Intellectual Property Protection in Edge AI | Exclude |
+| Intelligent Sensing and Application of Animal Behaviors Based on Wearable Sensors: A Review | Exclude |
+| Intelligent Waste Management Systems: A Review of IoT, Deep Learning, and Optimization Techniques for Sustainable E-Waste and Solid Waste Handling | Exclude |
+| Challenges and Opportunities of Federated Learning In the Age of IoT: A Multi-Domain Comprehensive Survey | Exclude |
+| Resource Allocation Techniques in Aerial-Assisted Vehicular Edge Computing: A Review of Recent Progress | Exclude |
+| Intelligent Model-Driven Engineering for IoT: Challenges and Future Directions | Exclude |
+| A Review of AI and IoT Integration Frameworks for Sustainable Soil Health Management | Exclude |
+
+## Google Scholar — Page 32
+
+| Title | Decision |
+|------|---------|
+| Systematic review of photovoltaic energy as an alternative energy source in business buildings | Exclude |
+| A Review of the Progressive Odyssey of AI-Driven Intrusion Detection Within Embedded Systems | Exclude |
+| A Comprehensive Survey of Graph-based Deep Learning Approaches for Anomaly Detection in Complex Distributed Systems | Exclude |
+| IoT solutions with artificial intelligence technologies for precision agriculture: definitions, applications, challenges, and opportunities | Exclude |
+| Towards mlops: A framework and maturity model | Exclude |
+| A multivocal review of MLOps practices, challenges and open issues | Exclude |
+| A Review on the Applications of Machine Learning and Deep Learning Algorithms for Image Recognition | Exclude |
+| Real-time Crowd Detection of Vehicles: Approaches and Open Challenges | Exclude |
+| A REVIEW OF NON-INVASIVE BREATH-BASED GLUCOSE MONITORING SYSTEM FOR DIABETIC PATIENTS | Exclude |
+| Check for: A Review of the Progressive Odyssey of AI-Driven Intrusion Detection Within Embedded Systems | Exclude |
+
+## Google Scholar — Page 33
+
+| Title | Decision |
+|------|---------|
+| Computational architectures for precision dairy nutrition digital twins: A technical review and implementation framework | Exclude |
+| The Vocal Cortex of the Smart Home: A Review of ESP32-Based Control and Automation Architectures | Exclude |
+| A Review and Threat Analysis of Machine Learning in Relation to Fog and Edge Computing | Exclude |
+| Passive infrared sensor-based occupancy monitoring in smart buildings: A review of methodologies and machine learning approaches | Exclude |
+| Towards Intelligent Zero Trust Systems: Merging AI Based Threat Modeling with Privacy Centric Controls | Exclude |
+| Machine Learning for Linux Kernel Optimization: Current Trends and Future Directions | Exclude |
+| A REVIEW ON LATEST DEEP LEARNING TECHNOLOGIES IN THE MODERN ENGINEERING ERA | Exclude |
+| Edge artificial intelligence in large-scale IoT systems, applications, and big data infrastructures | Exclude |
+| Internet of things-based automated solutions utilizing machine learning for smart and real-time irrigation management: A review | Exclude |
+| Machine learning operations (MLOps): Overview, definition, and architecture | Exclude |
+
+## Google Scholar — Page 34
+
+| Title | Decision |
+|------|---------|
+| Materiality and risk in the age of pervasive AI sensors | Exclude |
+| Raspberry Pi in Industry 4.0: A Comprehensive Review of Applications in Industrial IoT and Digital Twin Systems | Exclude |
+| The Role of ESP32 in Enabling Industry 4.0 and 5.0: A Comprehensive Narrative Review of Edge Intelligence, Human-Centric Automation, and Sustainable Systems | Exclude |
+| A comprehensive review of machine learning and deep learning in wearable IoT devices | Exclude |
+| IoT-enabled condition monitoring in power transformers: A proposed model | Exclude |
+| Overview of AI-models and tools in embedded IIoT applications | Exclude |
+| Artificial intelligence in the IoT era: A review of edge AI hardware and software | Exclude |
+| Smart farming technologies: A methodological overview and analysis | Exclude |
+| Towards data-driven hydration monitoring: Insights from wearable sensors and advanced machine learning techniques | Exclude |
+| Comprehensive Overview of CBB Detection Technologies and Image Database Development | Exclude |
+
+## Google Scholar — Page 35
+
+| Title | Decision |
+|------|---------|
+| A systematic and comprehensive review on low power wide area network: characteristics, architecture, applications and research challenges | Exclude |
+| Machine learning techniques for IoT applications in healthcare: Intelligent data-drive flow | Exclude |
+| PIR sensor-based occupancy monitoring in smart buildings: a review of methodologies and machine learning approaches | Exclude |
+| AI-Driven PCB Reliability Testing for IPC-9701 Compliance | Exclude |
+| An Analytical Review of Deep Learning Models and Datasets for Anomaly-Based Intrusion Detection Systems | Exclude |
+| Artificial Intelligence for Optimizing Solar Power Systems with Integrated Storage: A Critical Review of Techniques, Challenges, and Emerging Trends | Exclude |
+| Advancing Biogas Production Forecasting Using Artificial Intelligence: A Comprehensive Review of Models and Applications | Exclude |
+| AI-reinforced wearable sensors and intelligent point-of-care tests | Exclude |
+| Efficient Data Transmission in IoT Systems Based on Machine Learning Methods: A Short Analysis of Algorithms, Applications, and Challenges | Exclude |
+| Heterogeneous flight management system (FMS) design for unmanned aerial vehicles (UAVs): current stages, challenges, and opportunities | Exclude |
+
+## Google Scholar — Page 36
+
+| Title | Decision |
+|------|---------|
+| Lightweight artificial intelligence for physical activity recognition based on wearable devices | Exclude |
+| Startup Copilots: Exploring AI's Impact on Entrepreneurial Productivity and Innovation | Exclude |
+| Integration of AI in self-powered IoT sensor systems | Exclude |
+| Are morphometric alterations of the deep neck muscles related to primary headache disorders? A systematic review | Exclude |
+| Edge Intelligence: a light in the fog, a review paper | Exclude |
+| What gets measured gets improved: Monitoring machine learning applications in their production environments | Exclude |
+| Transforming mining energy optimization: a review of machine learning techniques and challenges | Exclude |
+| Evolution and adoption of emerging technologies in the mining industry: An umbrella review | Exclude |
+| A Review of Developments and Metrology in Machine Learning and Deep Learning for Wearable IoT Devices | Exclude |
+| ML-Based Maintenance and Control Process Analysis, Simulation, and Automation—A Review | Exclude |
+
+## Google Scholar — Page 37
+
+| Title | Decision |
+|------|---------|
+| MCU intelligent upgrades: An overview of AI-enabled low-power technologies | Exclude |
+| Revolutionizing healthcare: IoT and machine learning techniques for improved patient diagnosis and monitoring — A review | Exclude |
+| A Comprehensive Review of Cyber-Attack Detection in IoT Environments: Datasets and Approaches | Exclude |
+| Artificial intelligence and ECG: a new frontier in cardiac diagnostics and prevention | Exclude |
+| Domains and Impact of AI in IoT for Environmental Monitoring and Management: A Review | Exclude |
+| A Review and Analysis of Computational Approaches in Diagnosing, Monitoring, Controlling, and Developing Treatments and Vaccines Against the Zika Virus | Exclude |
+| Energy-efficient industrial internet of things: Overview and open issues | Exclude |
+| Machine Learning and Edge Computing for Industry 4.0 Applications: Concepts and Extensive Review | Exclude |
+| AI-driven techniques for detection and mitigation of SARS-CoV-2 spread: a review, taxonomy, and trends | Exclude |
+| Evolving topics in federated learning: trends, and emerging directions for IS | Exclude |
+
+## Google Scholar — Page 38
+
+| Title | Decision |
+|------|---------|
+| Artificial Intelligence in Edible Mushroom Cultivation, Breeding, and Classification: A Comprehensive Review | Exclude |
+| Classification and characterization of LoRaWAN energy depletion attacks: A review | Exclude |
+| A comprehensive review of AI methods in agri-food engineering: Applications, challenges, and future directions | Exclude |
+| Internet of Things intrusion detection systems: a comprehensive review and future directions | Exclude |
+| Unveiling the Future: A Comprehensive Review of Emerging IoT Trends Powered by Artificial Intelligence for Smarter Automation and Intelligent Decision Making | Exclude |
+| Towards Privacy-Aware Intelligence: Challenges and Prospects in Federated Learning | Exclude |
+| Embedded Artificial Intelligence in Education: Bibliometric Analysis | Exclude |
+| A holistic overview of the internet of things ecosystem | Exclude |
+| Artificial Intelligence and Machine Learning: Issues and Directions | Exclude |
+| Containerization in edge intelligence: A review | Exclude |
+
+## Google Scholar — Page 39
+
+| Title | Decision |
+|------|---------|
+| The Integration of Internet of Things, Big Data Analytics, and Cloud Computing Technologies for Real-Time Application Development | Exclude |
+| Recent Techniques in Machine Learning: A Review | Exclude |
+| Exploring Sustainable Practices for Energy Conservation in IoT Systems—An Extensive Overview | Exclude |
+| Federated learning for smart agriculture: Challenges and opportunities | Exclude |
+| Sensors International (systematic review on sensors applications) | Exclude |
+| A Review of Drone Based Irrigation System for Large Farms | Exclude |
+| Lightweight and mobile artificial intelligence and immersive technologies in aviation | Exclude |
+| Mathematical modeling in animal nutrition: revolutionizing animal farming with artificial intelligence | Exclude |
+| AI-powered digital twins and internet of things for smart cities and sustainable building environment | Exclude |
+| Edge Computing and AI Integration for Real-Time Data Processing in East Africa: Opportunities, Challenges, and Future Directions | Exclude |
+
+## Google Scholar — Page 40
+
+| Title | Decision |
+|------|---------|
+| Model-driven engineering techniques and tools for machine learning-enabled IoT applications: A scoping review | Exclude |
+| Evolving Topics in Federated Learning: Trends, and Emerging Directions for IS Research | Exclude |
+| Integrating HCI datasets in project-based machine learning courses: a college-level review and case study | Exclude |
+| Crowdsensing for road pavement condition monitoring: Trends, limitations, and opportunities | Exclude |
+| Inertial navigation on extremely resource-constrained platforms: Methods, opportunities and challenges | Exclude |
+| A structured review of IoT-based embedded systems and machine learning for water quality monitoring | Exclude |
+| A critical review for real-time continuous soil monitoring: advantages, challenges, and perspectives | Exclude |
+| A comprehensive overview on UWB radar: Applications, standards, signal processing techniques, datasets, radio chips, trends and future research directions | Exclude |
+| IoT-based Real-time Temperature Monitoring in Critical Systems: A Review | Exclude |
+| Artificial Intelligence Applications in Chronic Obstructive Pulmonary Disease: A Global Scoping Review of Diagnostic, Symptom-Based, and Outcome Approaches | Exclude |
