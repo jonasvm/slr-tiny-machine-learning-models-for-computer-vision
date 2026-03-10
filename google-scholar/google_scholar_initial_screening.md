@@ -72,3 +72,18 @@
 | GS48 | A Comprehensive Survey of Federated Learning for Edge AI | 2025 | Survey | Preprint | Exclude |
 | GS49 | On tinyml and cybersecurity: Electric vehicle charging infrastructure use case | 2024 | Research Article | IEEE | Exclude |
 | GS50 | A decade of machine learning in lithium-ion battery state estimation: a systematic review | 2025 | Systematic Review | Springer | Exclude |
+
+## Google Scholar — Page 6
+
+| ID | Title | Year | Type | Source | Decision |
+|----|------|------|------|--------|---------|
+| GS51 | Lightweight deep learning for resource-constrained environments: A survey | 2024 | Survey | ACM Computing Surveys | Include |
+| GS52 | State-of-the-art review on fall prediction among older Adults: Exploring edge devices as a promising approach for the future | 2025 | Review | Elsevier | Exclude |
+| GS53 | Advancing tinyml in iot: A holistic system-level perspective for resource-constrained ai | 2025 | Review | Preprint | Exclude |
+| GS54 | Software Engineering Approaches for TinyML based IoT Embedded Vision: A Systematic Literature Review | 2022 | Systematic Review | arXiv | Exclude |
+| GS55 | Neural Network Quantization for Microcontrollers: A Comprehensive Survey of Methods, Platforms, and Applications | 2025 | Survey | arXiv | Exclude |
+| GS56 | A review on resource-constrained embedded vision systems-based tiny machine learning for robotic applications | 2024 | Review | MDPI Algorithms | Include |
+| GS57 | Systematic Literature Review and Meta-Analysis of Microcontroller Learning Development in the Industry 4.0 | 2024 | Systematic Review | Unknown | Exclude |
+| GS58 | Edge AI in Practice: A Survey and Deployment Framework for Neural Networks on Embedded Systems | 2025 | Survey | MDPI Electronics | Include |
+| GS59 | Federated Learning and TinyML for Localization: Benefits, Applications, and Challenges | 2025 | Review | Unknown | Exclude |
+| GS60 | The Impact of Integrating Artificial Intelligence Techniques Into Data Fusion for Wireless Sensor Networks: A Systematic Literature Review | 2025 | Systematic Review | IEEE Conference | Exclude |
