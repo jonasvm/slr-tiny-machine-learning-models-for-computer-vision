@@ -1,0 +1,43 @@
+Database: Google Scholar
+
+Search date: 07 March 2026
+
+Search query:
+intitle:(survey OR "systematic review" OR "literature review") (TinyML)
+
+Filters applied:
+Publication years: 2015–2025
+Language: English (verified during screening)
+Document type: Journal articles (manually verified)
+
+Sorting:
+Relevance (default Google Scholar ranking)
+
+Total results returned:
+Approximately 750 results (Google Scholar estimate)
+
+Selection criteria applied during screening:
+
+Inclusion criteria:
+- Papers that are surveys or systematic literature reviews
+- Papers related to TinyML, Edge AI, Embedded AI, or Computer Vision
+- Peer-reviewed journal publications
+- English language
+
+Exclusion criteria:
+- Primary research papers
+- Conference papers
+- Book chapters
+- Theses, dissertations, or preprints
+- Papers not presenting a review of the literature
+- Papers unrelated to TinyML, Edge AI, Embedded AI, or Computer Vision
+
+Notes:
+Because Google Scholar does not provide strict filters for publication type,
+journal articles were verified manually during screening.
+
+Title-based screening was performed using the query constraint "intitle".
+Titles and abstracts were inspected page by page (Pages 1–75).
+
+Papers satisfying the inclusion criteria were downloaded for full-text
+methodological analysis.
