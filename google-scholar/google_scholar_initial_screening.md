@@ -41,7 +41,7 @@
 | GS27 | Solar Energy Forecasting Using TinyML Techniques: A Comprehensive Survey | 2024 | Survey | Springer | Exclude |
 | GS28 | A review of machine learning and tinyml in healthcare | 2021 | Review | ACM | Exclude |
 | GS29 | Edge intelligence in urban landscapes: reviewing TinyML applications for connected and sustainable smart cities | 2025 | Review | MDPI | Exclude |
-| GS30 | Tiny federated learning for constrained sensors: A systematic literature review | 2025 | Systematic Review | IEEE | Include |
+| GS30 | Tiny federated learning for constrained sensors: A systematic literature review | 2025 | Systematic Review | IEEE | Exclude |
 
 ## Google Scholar — Page 4
 
