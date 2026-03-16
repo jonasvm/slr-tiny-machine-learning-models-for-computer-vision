@@ -1,4 +1,3 @@
-
 # SLR27 Analysis
 
 ## 1. Basic Information
@@ -7,7 +6,7 @@
 Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models
 
 **Authors:**  
-Xubin Wang, Zhiqing Tang, Jianxiong Guo, Tianhui Meng, Chenhao Wang, Tian Wang, Weijia Jia
+Xubin Wang, Zhiqing Tang, Jianxiong Guo, Tianhui Meng, Chenhao Wang, Tian Wang, and Weijia Jia
 
 **Year:**  
 2025
@@ -16,57 +15,50 @@ Xubin Wang, Zhiqing Tang, Jianxiong Guo, Tianhui Meng, Chenhao Wang, Tian Wang, 
 ACM Computing Surveys
 
 **Type of Review:**  
-Survey (Narrative survey)
+Survey (narrative survey)
 
 ---
 
 ## 2. Scope and Purpose of the Review
 
-**Main objective of the review**
+**Main objective of the review:**  
+The paper aims to provide a comprehensive overview of artificial intelligence models deployed directly on devices (on-device AI), discussing their applications, technical challenges, optimization and implementation strategies, and future development directions.
 
-The paper aims to provide a comprehensive overview of artificial intelligence models deployed directly on devices (on-device AI), discussing applications, challenges, optimization strategies, and future research directions in edge intelligence.
+**Problem the review claims to solve:**  
+The paper addresses the growing need to understand how AI models can be effectively deployed on edge and terminal devices despite limitations in computation, storage, energy, latency, and privacy. It seeks to organize and synthesize the fragmented literature on on-device AI models.
 
-**Problem the review claims to solve**
-
-The rapid growth of edge devices and AI deployment creates challenges related to limited computational resources, energy consumption, latency, and deployment complexity. The survey aims to organize and analyze research addressing these challenges.
-
-**Scope**
-
+**Scope:**  
 - On-device AI models  
-- Edge AI and edge computing  
-- Mobile and embedded AI systems  
-- Model optimization for resource-constrained environments  
-- AI deployment on IoT devices  
+- Edge intelligence  
+- Edge and terminal devices  
+- IoT and mobile devices  
+- Model optimization and deployment in resource-constrained environments  
 
-**Main contributions claimed by the authors**
-
-- Comprehensive overview of on-device AI research.  
-- Discussion of technical challenges in edge AI deployment.  
-- Survey of optimization techniques for AI models on edge devices.  
-- Identification of research gaps and future directions.  
-- Insights for researchers and practitioners working with edge AI systems.
+**Main contributions claimed by the authors:**  
+- Provides a comprehensive overview of the current landscape of on-device AI models.  
+- Identifies major technical challenges for deploying AI models on devices.  
+- Reviews optimization and implementation methods for on-device AI.  
+- Discusses future research directions and emerging technologies.  
+- Offers practical implications for researchers and industry practitioners.
 
 ---
 
 ## 3. Search Methodology
 
-**Databases Used**
-
+**Databases Used:**  
 Not reported.
 
-**Search Strings**
-
+**Search Strings:**  
 Not reported.
 
-**Time Range**
-
+**Time Range:**  
 Not reported.
 
-**Study Types Included**
-
+**Study Types Included:**  
 Not reported.
 
-The paper does not describe a formal search strategy or literature retrieval process.
+**Notes on search methodology:**  
+The paper does not describe a formal database search process, search query construction, publication time window, or document type filtering. It appears to be a narrative survey rather than a systematic literature review.
 
 ---
 
@@ -74,161 +66,175 @@ The paper does not describe a formal search strategy or literature retrieval pro
 
 Not reported.
 
-No explicit inclusion or exclusion criteria are described in the paper.
+No explicit inclusion criteria or exclusion criteria are presented in the paper.
 
 ---
 
 ## 5. Deduplication and Screening Process
 
-**Duplicate removal**
-
+**Duplicate removal described:**  
 Not reported.
 
-**Title/abstract screening**
-
+**Title/abstract screening described:**  
 Not reported.
 
-**Full-text screening**
-
+**Full-text screening described:**  
 Not reported.
 
-**Selection process**
-
-The paper does not describe a systematic selection process. Studies appear to have been selected based on relevance to the survey topic.
+**Selection process explanation:**  
+The paper does not describe a formal study screening or selection pipeline. The cited literature appears to have been selected based on topical relevance to on-device AI models.
 
 ---
 
 ## 6. PRISMA or Selection Flow
 
-**PRISMA used**
-
+**PRISMA used:**  
 No.
 
-**Counts of papers at each stage**
-
+**Counts of papers reported at each stage:**  
 Not reported.
 
-**Stages of filtering**
-
+**Stages of filtering reported:**  
 Not reported.
 
-The paper includes figures illustrating the structure of the survey but does not include a PRISMA flow diagram or equivalent selection workflow.
+**Notes:**  
+The paper includes a structural overview figure of the survey itself, but not a PRISMA flow diagram or any equivalent study selection flow.
 
 ---
 
 ## 7. Data Extraction Method
 
+**Data extraction method described:**  
 Not reported.
 
-However, based on the survey structure, the paper discusses studies according to several attributes, including:
+**Information extracted from studies (inferred from the paper content):**  
+The paper discusses studies in terms of attributes such as:
 
-- AI model architectures  
-- optimization techniques  
-- deployment strategies  
+- application domain  
+- edge device type  
+- AI model type  
+- model compression methods  
+- pruning techniques  
+- quantization techniques  
+- knowledge distillation  
+- low-rank factorization  
+- neural architecture search  
+- hardware acceleration  
+- software optimization frameworks  
 - hardware platforms  
 - energy efficiency  
+- latency  
 - computational cost  
-- latency considerations  
-- model compression techniques  
-- neural architecture search approaches  
+- storage and memory constraints  
+- privacy and security considerations  
 
-These attributes are analyzed narratively rather than through a formal data extraction protocol.
+These fields are discussed narratively, but no formal extraction protocol is reported.
 
 ---
 
 ## 8. Quality Assessment / Risk of Bias
 
-**Quality assessment exists**
-
+**Quality assessment exists:**  
 No.
 
-**Method used**
-
+**Method or rubric used:**  
 Not reported.
 
-**Number of criteria**
-
+**Number of criteria:**  
 Not reported.
 
-The paper does not evaluate the methodological quality of included studies.
+**Notes:**  
+The paper does not report any formal quality appraisal or risk-of-bias assessment of the included studies.
 
 ---
 
 ## 9. Types of Analysis Used
 
-The review synthesizes the literature using several qualitative approaches:
+The paper uses the following forms of synthesis:
 
-- Narrative synthesis of research contributions  
-- Taxonomy of on-device AI techniques  
-- Conceptual categorization of optimization strategies  
-- Comparative discussion of model optimization methods  
-- Trend analysis and identification of future research directions  
+- narrative synthesis  
+- thematic organization by topic  
+- taxonomic categorization  
+- comparative descriptive discussion  
+- trend and future directions analysis  
+- summary tables of methods, devices, and optimization strategies  
 
-No quantitative meta-analysis is performed.
+**Quantitative synthesis / meta-analysis:**  
+No.
 
 ---
 
 ## 10. Figures and Tables Used in the Review
 
-The paper includes several types of figures and tables typical of technical surveys, including:
+**Typical figures used:**  
+- Overall structure of the survey  
+- Diagrams showing on-device AI workflow  
+- Figures illustrating data optimization operations  
+- Figures illustrating model optimization operations  
+- Figures related to system optimization perspectives  
 
-- Survey structure diagrams  
-- Architecture diagrams for edge AI systems  
-- Illustrations of optimization pipelines  
-- Tables summarizing AI models and optimization techniques  
-- Tables comparing hardware acceleration approaches  
-
-These tables provide descriptive summaries rather than systematic benchmarking.
+**Typical tables used:**  
+- Lists of edge devices and their features  
+- Types of AI models  
+- Comparisons between on-device AI and cloud-based AI  
+- Summary tables of optimization techniques  
+- Tables of lightweight models and frameworks  
+- Tables of hardware accelerators and hardware optimization methods  
 
 ---
 
 ## 11. Practical Recommendations
 
-The authors suggest several research directions, including:
+The paper provides practical recommendations for future research, including:
 
-- Development of more efficient model compression techniques  
-- Hardware-aware neural architecture search methods  
-- Energy-efficient AI algorithms for edge devices  
-- Improved fairness and bias mitigation in AI models  
-- Security and privacy mechanisms for edge AI systems  
-- Integration with federated learning and distributed AI approaches  
+- further research on optimization algorithms for reducing computational and storage demands  
+- hardware-software co-design for better efficiency on edge devices  
+- stronger privacy and security mechanisms for on-device AI  
+- improved fairness and explainability of AI models  
+- interdisciplinary collaboration across computing, ethics, and social sciences  
 
 ---
 
 ## 12. Limitations of the Review
 
-The paper does not explicitly discuss limitations of the review methodology.
+**Limitations explicitly mentioned by the authors:**  
+Not reported.
 
-However, methodological limitations include:
-
-- Lack of systematic search strategy  
-- Absence of reproducible literature selection process  
-- No quality assessment of included studies  
+**Methodological limitations observed from the paper:**  
+- no formal search strategy reported  
+- no reproducible database search process  
+- no inclusion or exclusion criteria  
+- no screening protocol  
+- no quality assessment  
 
 ---
 
 ## 13. Methodological Strengths of This Review
 
-- Comprehensive coverage of the on-device AI research landscape  
-- Structured taxonomy of techniques and challenges  
-- Clear conceptual organization of the literature  
-- Extensive citation of relevant studies  
-- Discussion of practical deployment challenges in edge environments  
+Despite not being a formal SLR, the review has some methodological strengths:
+
+- broad and well-structured coverage of the topic  
+- explicit research questions guiding the survey  
+- clear thematic organization  
+- extensive use of figures and comparative tables  
+- strong focus on practical deployment dimensions such as energy, memory, latency, and hardware support  
 
 ---
 
 ## 14. Potential Methodological Weaknesses
 
-- No systematic search methodology described  
-- No search strings reported  
-- No databases listed  
-- No defined time window for the literature  
-- No inclusion or exclusion criteria  
-- No deduplication procedure  
-- No PRISMA or study selection diagram  
-- No quality assessment of included studies  
+- lack of explicit search methodology  
+- databases not identified  
+- search strings not reported  
+- publication time window not defined  
+- inclusion and exclusion criteria missing  
+- no deduplication process described  
+- no screening stages described  
+- no PRISMA or equivalent study selection diagram  
+- no quality assessment of included studies  
 
-Therefore, the paper should be classified as a **narrative survey rather than a systematic literature review**.
+**Overall methodological classification:**  
+This paper should be classified as a **narrative survey**, not as a systematic literature review.
 
 ---
 
@@ -246,5 +252,3 @@ Therefore, the paper should be classified as a **narrative survey rather than a 
 - [ ] Quality assessment performed  
 - [x] Comparative tables included  
 - [ ] Quantitative synthesis included  
-
----
