@@ -42,7 +42,8 @@ Total results returned:
 
 1,901 papers
 
-| # | Title | Year | Type | Venue | Decision | Reason || # | Title | Year | Type | Venue | Decision | Reason |
+| # | Title | Year | Type | Venue | Decision | Reason |
+|---|---|---|---|---|---|---|
 | 1 | Deploying TinyML for energy-efficient object detection and communication in low-power edge AI systems | 2025 | Article | Scientific Reports | Keep | Directly related to TinyML, object detection, low-power Edge AI, and constrained-device deployment |
 | 2 | Optimized embedded AI: efficient implementation of CNNs on ESP32-CAM for real-time image classification | 2025 | Article | Computing | Keep | Directly related to embedded AI, CNN implementation, ESP32-CAM, and real-time image classification |
 | 3 | Real-time rapid visual fish disease detection system based on tiny machine learning | 2025 | Article | Aquaculture International | Keep | Directly related to TinyML and visual disease detection |
@@ -58,12 +59,6 @@ Total results returned:
 | 13 | Edge deep learning in computer vision and medical diagnostics: a comprehensive survey | 2025 | Article | Artificial Intelligence Review | Keep | Directly related to edge deep learning and computer vision, useful as related review/background |
 | 14 | Empowering voice assistants with TinyML for user-centric innovations and real-world applications | 2025 | Article | Scientific Reports | Discard | TinyML-related, but focused on voice assistants rather than computer vision |
 | 15 | TinyML: Tools, applications, challenges, and future research directions | 2023 | Article | Multimedia Tools and Applications | Keep | Broad TinyML article relevant as background for tools, applications, challenges, and future directions |
-| 16 | Tiny machine learning models for autonomous workload distribution across cloud-edge computing continuum | 2025 | Article | Cluster Computing | Discard | TinyML-related, but focused on workload distribution across cloud-edge computing rather than computer vision |
-| 17 | RIOT-ML: toolkit for over-the-air secure updates and performance evaluation of TinyML models | 2024 | Article | Annals of Telecommunications | Keep | TinyML toolkit for deployment and performance evaluation, potentially relevant to constrained-device AI workflows |
-| 18 | Computer vision and statistical insights into cycling near miss dynamics | 2024 | Article | Scientific Reports | Discard | Computer vision topic, but not clearly related to TinyML, Edge AI, or constrained on-device inference |
-| 19 | Autonomous object tracking with vision based control using a 2DOF robotic arm | 2025 | Article | Scientific Reports | Discard | Computer vision object tracking, but not clearly related to TinyML, Edge AI, or constrained deployment |
-| 20 | Real-time and Resource-efficient Embedded Computer Vision Via Optimizing Lightweight CNNs for FPGA Acceleration | 2025 | Article | Journal of Signal Processing Systems | Keep | Directly related to embedded computer vision, lightweight CNNs, and resource-efficient FPGA acceleration |
-, challenges, and future research directions | 2023 | Article | Multimedia Tools and Applications | Keep | Broad TinyML article relevant as background for tools, applications, challenges, and future directions |
 | 16 | Tiny machine learning models for autonomous workload distribution across cloud-edge computing continuum | 2025 | Article | Cluster Computing | Discard | TinyML-related, but focused on workload distribution across cloud-edge computing rather than computer vision |
 | 17 | RIOT-ML: toolkit for over-the-air secure updates and performance evaluation of TinyML models | 2024 | Article | Annals of Telecommunications | Keep | TinyML toolkit for deployment and performance evaluation, potentially relevant to constrained-device AI workflows |
 | 18 | Computer vision and statistical insights into cycling near miss dynamics | 2024 | Article | Scientific Reports | Discard | Computer vision topic, but not clearly related to TinyML, Edge AI, or constrained on-device inference |
