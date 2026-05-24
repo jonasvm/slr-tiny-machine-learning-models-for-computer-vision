@@ -1,4 +1,4 @@
-#Phase 2 - Absctract and Conclusion reading.
+# Phase 2 - Absctract and Conclusion reading.
 
 The initial search conducted across the selected databases returned a total of 298 potentially relevant papers for this Systematic Literature Review.
 
