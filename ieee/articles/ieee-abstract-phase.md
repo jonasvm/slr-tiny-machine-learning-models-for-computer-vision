@@ -1,5 +1,17 @@
+#Phase 2 - Absctract and Conclusion reading.
 
-# Consolidated Keep Papers Table
+The initial search conducted across the selected databases returned a total of 298 potentially relevant papers for this Systematic Literature Review.
+
+After the initial screening stage based on title analysis and the application of the inclusion and exclusion criteria, 129 papers were retained for the next phase of the review process.
+
+In this subsequent stage, the selected papers underwent abstract and conclusion analysis in order to verify:
+- alignment with the scope of the research;
+- relevance to TinyML and computer vision;
+- presence of experimental evaluation;
+- focus on embedded systems, edge AI, or resource-constrained devices;
+- use of lightweight models, compression, quantization, pruning, NAS, or related optimization techniques.
+
+The table below presents the papers selected for this in-depth screening stage.
 
 | # | Title | Year | Type | Venue | Initial Reason to Keep |
 |---|---|---|---|---|---|
