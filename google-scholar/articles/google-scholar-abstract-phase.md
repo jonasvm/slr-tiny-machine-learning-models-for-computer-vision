@@ -3,15 +3,15 @@
 | # | Title | Year | Type | Venue | Decision | Reason |
 |---|---|---|---|---|---|---|
 | 1 | Deploying TinyML for energy-efficient object detection and communication in low-power edge AI systems | 2025 | Article | Scientific Reports | Discard | Duplicated - Springer |
-| 2 | Artificial intelligence for the classification of plastic waste utilizing TinyML on low-cost embedded systems | 2023 | Article | Int. J. Adv. Sci. Eng. | Todo | Todo |
-| 3 | Tinyml-on-the-fly: Real-time low-power and low-cost mcu-embedded on-device computer vision for aerial image classification | 2024 | Conference Paper | IEEE | Todo | Todo |
+| 2 | Artificial intelligence for the classification of plastic waste utilizing TinyML on low-cost embedded systems | 2023 | Article | Int. J. Adv. Sci. Eng. | Keep | Directly presents a TinyML plastic waste classification system on a low-cost embedded Arducam Pico4ML device, using quantized MobileNetV2 with real-time inference, ROM/RAM usage, latency, and accuracy metrics. |
+| 3 | Tinyml-on-the-fly: Real-time low-power and low-cost mcu-embedded on-device computer vision for aerial image classification | 2024 | Conference Paper | IEEE | Keep | Directly proposes TinyAerialNet for real-time aerial image classification on ESP32-CAM, with on-device accuracy, RAM usage, and inference latency reported. |
 | 4 | Object detection at edge using TinyML models | 2023 | Article | SN Computer Science | Discard | Duplicated - Springer |
 | 5 | Deploying TinyML for Energy-Efficient Object Detection and Communication in Low-Power EdgeAI Systems | 2025 | Article | Research Square | Discard | Duplicated item 1 |
 | 6 | Optimized embedded AI: efficient implementation of CNNs on ESP32-CAM for real-time image classification | 2025 | Article | Computing | Discard | Duplicated - Springer |
-| 7 | VisualAid+: Assistive system for visually impaired with TinyML enhanced object detection and scene narration | 2023 | Conference Paper | IEEE Symposium on Networks | Todo | Todo |
-| 8 | TinyML olive fruit variety classification by means of convolutional neural networks on IoT edge devices | 2023 | Article | AgriEngineering | Todo | Todo |
-| 9 | Analysing edge computing devices for the deployment of embedded AI | 2023 | Article | Sensors | Todo | Todo |
-| 10 | TinyML-Based Object Detection on Smart Blind Stick for Visually Impaired Person | 2025 | Conference Paper | IEEE | Todo | Todo |
+| 7 | VisualAid+: Assistive system for visually impaired with TinyML enhanced object detection and scene narration | 2023 | Conference Paper | IEEE Symposium on Networks | Keep | Presents a TinyML/Edge AI wearable assistive system with on-device person detection on ESP32 using TensorFlow Lite Micro and object detection on Raspberry Pi, with explicit memory and processing-time motivation for embedded inference. |
+| 8 | TinyML olive fruit variety classification by means of convolutional neural networks on IoT edge devices | 2023 | Article | AgriEngineering | Keep | Presents a TinyML framework for olive fruit image classification on low-cost edge IoT devices, with compressed CNN deployment and reported accuracy, inference speed, and memory requirements. |
+| 9 | Analysing edge computing devices for the deployment of embedded AI | 2023 | Article | Sensors | Discard | Benchmarks edge computing devices and AI accelerators generally, but it is not focused on a specific TinyML computer vision model, embedded vision deployment contribution, or resource-constrained optimization method. |
+| 10 | TinyML-Based Object Detection on Smart Blind Stick for Visually Impaired Person | 2025 | Conference Paper | IEEE | Keep | Directly describes a TinyML-based real-time object detection system on microcontrollers for a smart blind stick, with on-device inference and no cloud dependency. |
 | 11 | Lightweight real-time object detection system based on embedded AI development kit | 2022 | Conference Paper | IEEE | Todo | Todo |
 | 12 | Real-Time Performance Benchmarking of TinyML Models in Embedded Systems (PICO: Performance of Inference, CPU, and Operations) | 2025 | Conference Paper | IEEE | Todo | Todo |
 | 13 | On-device online learning and semantic management of TinyML systems | 2024 | Article | ACM Transactions on Embedded Computing Systems | Todo | Todo |
