@@ -2,12 +2,12 @@
 
 | # | Title | Year | Type | Venue | Decision | Reason |
 |---|---|---|---|---|---|---|
-| 1 | Deploying TinyML for energy-efficient object detection and communication in low-power edge AI systems | 2025 | Article | Scientific Reports | Todo | Todo |
+| 1 | Deploying TinyML for energy-efficient object detection and communication in low-power edge AI systems | 2025 | Article | Scientific Reports | Discard | Duplicated - Springer |
 | 2 | Artificial intelligence for the classification of plastic waste utilizing TinyML on low-cost embedded systems | 2023 | Article | Int. J. Adv. Sci. Eng. | Todo | Todo |
 | 3 | Tinyml-on-the-fly: Real-time low-power and low-cost mcu-embedded on-device computer vision for aerial image classification | 2024 | Conference Paper | IEEE | Todo | Todo |
-| 4 | Object detection at edge using TinyML models | 2023 | Article | SN Computer Science | Todo | Todo |
-| 5 | Deploying TinyML for Energy-Efficient Object Detection and Communication in Low-Power EdgeAI Systems | 2025 | Article | Research Square | Todo | Todo |
-| 6 | Optimized embedded AI: efficient implementation of CNNs on ESP32-CAM for real-time image classification | 2025 | Article | Computing | Todo | Todo |
+| 4 | Object detection at edge using TinyML models | 2023 | Article | SN Computer Science | Discard | Duplicated - Springer |
+| 5 | Deploying TinyML for Energy-Efficient Object Detection and Communication in Low-Power EdgeAI Systems | 2025 | Article | Research Square | Discard | Duplicated item 1 |
+| 6 | Optimized embedded AI: efficient implementation of CNNs on ESP32-CAM for real-time image classification | 2025 | Article | Computing | Discard | Duplicated - Springer |
 | 7 | VisualAid+: Assistive system for visually impaired with TinyML enhanced object detection and scene narration | 2023 | Conference Paper | IEEE Symposium on Networks | Todo | Todo |
 | 8 | TinyML olive fruit variety classification by means of convolutional neural networks on IoT edge devices | 2023 | Article | AgriEngineering | Todo | Todo |
 | 9 | Analysing edge computing devices for the deployment of embedded AI | 2023 | Article | Sensors | Todo | Todo |
@@ -19,15 +19,15 @@
 | 15 | Semantic meta-split learning: A tinyML scheme for few-shot wireless image classification | 2025 | Article | IEEE Transactions | Todo | Todo |
 | 16 | TinyML for safe driving: The use of embedded machine learning for detecting driver distraction | 2023 | Conference Paper | IEEE | Todo | Todo |
 | 17 | Tiny machine learning empowers climbing inspection robots for real-time multiobject bolt-defect detection | 2024 | Article | Engineering Applications of Artificial Intelligence | Todo | Todo |
-| 18 | Domain-adaptive tinyml model for efficient pest and disease detection in domestic crops: A practical approach for developing countries | 2024 | Conference Paper | ACM | Todo | Todo |
+| 18 | Domain-adaptive tinyml model for efficient pest and disease detection in domestic crops: A practical approach for developing countries | 2024 | Conference Paper | ACM | Discard | Duplicated - ACM |
 | 19 | Metatinyml: End-to-end metareasoning framework for tinyml platforms | 2024 | Article | IEEE Embedded Systems Letters | Todo | Todo |
 | 20 | Developing a TinyML image classifier in an hour | 2024 | Article | IEEE Open Journal | Todo | Todo |
 | 21 | Wake vision: A tailored dataset and benchmark suite for TinyML computer vision applications | 2024 | Preprint | arXiv | Todo | Todo |
-| 22 | Enhancing the energy efficiency and robustness of TinyML computer vision using coarsely-quantized log-gradient input images | 2024 | Article | ACM Transactions on Embedded Computing Systems | Todo | Todo |
+| 22 | Enhancing the energy efficiency and robustness of TinyML computer vision using coarsely-quantized log-gradient input images | 2024 | Article | ACM Transactions on Embedded Computing Systems | Discard | Duplicated - ACM |
 | 23 | Robotic Recyclables Segregation System using TinyML | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 24 | Robustifying the deployment of tinyml models for autonomous mini-vehicles | 2021 | Article | Sensors | Todo | Todo |
 | 25 | TinyML-enabled fuzzy logic for enhanced road anomaly detection in remote sensing | 2025 | Article | Scientific Reports | Todo | Todo |
-| 26 | A TinyML model for sidewalk obstacle detection: aiding the blind and visually impaired people | 2025 | Article | Multimedia Tools and Applications | Todo | Todo |
+| 26 | A TinyML model for sidewalk obstacle detection: aiding the blind and visually impaired people | 2025 | Article | Multimedia Tools and Applications | Discard | Duplicated - Springer |
 | 27 | A processing-in-pixel-in-memory paradigm for resource-constrained tinyml applications | 2022 | Article | Scientific Reports | Todo | Todo |
 | 28 | TinyML classification for agriculture objects with ESP32 | 2025 | Article | Digital | Todo | Todo |
 | 29 | Evaluation of the energy viability of smart IoT sensors using TinyML for computer vision applications: A case study | 2023 | Conference Paper | Springer | Todo | Todo |
@@ -39,21 +39,21 @@
 | 35 | Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers | 2021 | Conference Paper | Proceedings of Machine Learning Systems | Todo | Todo |
 | 36 | Thermal Camera Prototype for Predictive Maintenance in Photovoltaic Applications Based on TinyML Embedded System | 2024 | Conference Paper | Springer | Todo | Todo |
 | 37 | Deep Learning Model for Firearm Detection Based on Tinyml and Edgeia Architectures in Smart Cities | 2025 | Conference Paper | IEEE | Todo | Todo |
-| 38 | Summary of the 2023 PAIR-LITEON Competition: Embedded AI Object Detection Model Design Contest on Fish-eye Around-view Cameras | 2023 | Conference Paper | ACM | Todo | Todo |
+| 38 | Summary of the 2023 PAIR-LITEON Competition: Embedded AI Object Detection Model Design Contest on Fish-eye Around-view Cameras | 2023 | Conference Paper | ACM | Discard | Duplicated - ACM |
 | 39 | Tinyml-based human and animal movement detection in agriculture fields in india | 2023 | Conference Paper | Springer | Todo | Todo |
 | 40 | TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 41 | Proof of Concept: A TinyML-Based Image Classifier for Detecting Microplastics and Waste in Simulated Marine Environments | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 42 | EtinyNet: Extremely tiny network for TinyML | 2022 | Conference Paper | AAAI | Todo | Todo |
 | 43 | Otoscopy Image Classification Using Embedded AI | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 44 | Comparison of Different TinyML Implementations for an Industrial Control System | 2025 | Conference Paper | IEEE | Todo | Todo |
-| 45 | Tiny machine learning on the edge: A framework for transfer learning empowered unmanned aerial vehicle assisted smart farming | 2024 | Article | IET Smart Agriculture | Todo | Todo |
+| 45 | Tiny machine learning on the edge: A framework for transfer learning empowered unmanned aerial vehicle assisted smart farming | 2024 | Article | IET Smart Agriculture | Discard | Duplicated - Springer |
 | 46 | Tinyissimoyolo: A quantized, low-memory footprint, tinyml object detection network for low power microcontrollers | 2023 | Preprint | arXiv | Todo | Todo |
 | 47 | TinyML for plant disease detection: efficient edge AI solutions for Apple and Mango leaves | 2025 | Article | Procedia Computer Science | Todo | Todo |
 | 48 | Edge-AI Framework for Fire Detection in Wildland-Urban Interface using TinyML | 2025 | Conference Paper | IEEE | Todo | Todo |
 | 49 | Enabling autonomous structural inspections with tiny machine learning on UAVs | 2024 | Conference Paper | IEEE Sensors | Todo | Todo |
-| 50 | Robust navigation with tinyML for autonomous mini-vehicles | 2020 | Preprint | arXiv | Todo | Todo |
+| 50 | Robust navigation with tinyML for autonomous mini-vehicles | 2020 | Preprint | arXiv | Discard | Duplicated item 24 |
 | 51 | Tiny machine learning for high accuracy product quality inspection | 2022 | Conference Paper | IEEE Sensors | Todo | Todo |
-| 52 | TinyML for smart agriculture: Comparative analysis of TinyML platforms and practical deployment for maize leaf disease identification | 2024 | Article | Smart Agricultural Technology | Todo | Todo |
+| 52 | TinyML for smart agriculture: Comparative analysis of TinyML platforms and practical deployment for maize leaf disease identification | 2024 | Article | Smart Agricultural Technology | Discard | Duplicated - Springer |
 | 53 | An Efficient Hybrid Vision Transformer for TinyML Applications | 2025 | Conference Paper | Conference on Computer Vision | Todo | Todo |
 | 54 | Smart Railway Passenger Counting and Information Systems Powered by Real-Time Embedded AI and Computer Vision | 2025 | Conference Paper | IEEE | Todo | Todo |
 | 55 | Portable Edge Computing System Analysis for Real-time Detection and Classification of Wheat Yellow Rust Infection Types Using Embedded AI | 2024 | Conference Paper | IEEE | Todo | Todo |
@@ -75,7 +75,7 @@
 | 71 | TinyML-Based concept system used to analyze whether the face mask is worn properly in Battery-Operated conditions | 2022 | Article | Applied Sciences | Todo | Todo |
 | 72 | TinyML Induced Portable Food Defect Detection for Edge Computing | 2025 | Article | Internet Technology Letters | Todo | Todo |
 | 73 | The autonomous train vision: embedded AI for pedestrians monitoring | 2023 | Article | Transportation Research Procedia | Todo | Todo |
-| 74 | TinyML Demonstration of Time-series Prediction and Vision-based Gesture Recognition | 2023 | Conference Paper | ACM | Todo | Todo |
+| 74 | TinyML Demonstration of Time-series Prediction and Vision-based Gesture Recognition | 2023 | Conference Paper | ACM | Discard | Duplicated - ACM |
 | 75 | A 23-µJ-per-frame Fully-Integrated U-Net-Based TinyML Processor for Real-Time and Autonomous Medical Image Segmentation | 2025 | Conference Paper | IEEE Biomedical Circuits and Systems | Todo | Todo |
 | 76 | TinyML-Based In-Pipe Feature Detection for Miniature Robots | 2025 | Article | Sensors | Todo | Todo |
 | 77 | TinyML and IoT-enabled system for automated chicken egg quality analysis and monitoring | 2025 | Article | Smart Agricultural Technology | Todo | Todo |
@@ -93,24 +93,24 @@
 | 89 | Tiny Machine Learning for Hyperspectral Skin Cancer Image Classification | Not reported | Preprint | SSRN | Todo | Todo |
 | 90 | Power consumption benchmark for embedded AI inference | 2024 | Conference Paper | KU Leuven Repository | Todo | Todo |
 | 91 | Proai: An efficient embedded ai hardware for automotive applications-a benchmark study | 2021 | Conference Paper | Conference on Computer Vision | Todo | Todo |
-| 92 | An ultra-low-power embedded AI fire detection and crowd counting system for indoor areas | 2023 | Article | ACM Transactions | Todo | Todo |
+| 92 | An ultra-low-power embedded AI fire detection and crowd counting system for indoor areas | 2023 | Article | ACM Transactions | Discard | Duplicated - ACM |
 | 93 | Real-time road damage detection and infrastructure evaluation leveraging unmanned aerial vehicles and tiny machine learning | 2024 | Article | IEEE Internet of Things Journal | Todo | Todo |
 | 94 | Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification | 2024 | Conference Paper | Springer | Todo | Todo |
 | 95 | A novel one-versus-all approach for multiclass classification in TinyML systems | 2024 | Article | IEEE Embedded Systems Letters | Todo | Todo |
 | 96 | Edge computing with embedded ai: Thermal image analysis for occupancy estimation in intelligent buildings | 2019 | Conference Paper | ACM | Todo | Todo |
-| 97 | Real-time rapid visual fish disease detection system based on tiny machine learning | 2025 | Article | Aquaculture International | Todo | Todo |
+| 97 | Real-time rapid visual fish disease detection system based on tiny machine learning | 2025 | Article | Aquaculture International | Discard | Duplicated - Springer |
 | 98 | Advanced IoT-based fire and smoke detection system leveraging deep learning and TinyML | 2023 | Conference Paper | IEEE | Todo | Todo |
 | 99 | DDD TinyML: A TinyML-based driver drowsiness detection model using deep learning | 2023 | Article | Sensors | Todo | Todo |
 | 100 | Certainty-based neural network architecture selection framework for TinyML systems | 2024 | Article | IEEE | Todo | Todo |
 | 101 | TinyPPE: Ensuring Workplace Safety Helmet Compliance with Tiny Machine Learning | 2024 | Conference Paper | IEEE | Todo | Todo |
-| 102 | Tybox: An automatic design and code generation toolbox for tinyml incremental on-device learning | 2024 | Article | ACM Transactions | Todo | Todo |
+| 102 | Tybox: An automatic design and code generation toolbox for tinyml incremental on-device learning | 2024 | Article | ACM Transactions | Discard | Duplicated - ACM |
 | 103 | Hardware deployable classifier for invasive ductal carcinoma using tiny machine learning model | 2023 | Conference Paper | IEEE | Todo | Todo |
 | 104 | Deeppicarmicro: Applying tinyml to autonomous cyber physical systems | 2022 | Conference Paper | IEEE | Todo | Todo |
 | 105 | Expanding Applications of TinyML in Versatile Assistive Devices: From Navigation Assistance to Health Monitoring System Using Optimized NASNet-XGBoost | 2024 | Article | IEEE | Todo | Todo |
-| 106 | Enhancing drone-based precision agriculture: Performance optimization of tinyml models on edge devices and adaptive path planning | 2025 | Article | SN Computer Science | Todo | Todo |
+| 106 | Enhancing drone-based precision agriculture: Performance optimization of tinyml models on edge devices and adaptive path planning | 2025 | Article | SN Computer Science | Discard | Duplicated - Springer |
 | 107 | An Embedded AI Model for Defect Detection in Photovoltaic Modules using a Jetson Nano-Powered Unmanned Aerial Vehicle | 2025 | Conference Paper | IEEE | Todo | Todo |
-| 108 | TinyML-Powered Gesture Wizardry: Low-Cost, Low-Power Two-Stage CNN for Static Hand Gesture Classification on MCU in Appliance Control | 2024 | Conference Paper | ACM | Todo | Todo |
-| 109 | Deep reorganization: Retaining residuals in tinyml | 2024 | Conference Paper | ACM | Todo | Todo |
+| 108 | TinyML-Powered Gesture Wizardry: Low-Cost, Low-Power Two-Stage CNN for Static Hand Gesture Classification on MCU in Appliance Control | 2024 | Conference Paper | ACM | Discard | Duplicated - ACM |
+| 109 | Deep reorganization: Retaining residuals in tinyml | 2024 | Conference Paper | ACM | Discard | Duplicated - ACM |
 | 110 | On The Dynamic Ensemble Selection for TinyML-based Systems-a Preliminary Study | 2024 | Conference Paper | Springer | Todo | Todo |
 | 111 | Bin Occupancy Estimation in Warehouses with a TinyML Vision Sensor | 2025 | Conference Paper | IEEE Sensors | Todo | Todo |
 | 112 | Accelerating 3D scene analysis for autonomous driving on embedded AI computing platforms | 2021 | Conference Paper | IEEE | Todo | Todo |
@@ -132,13 +132,13 @@
 | 128 | Human-computer Interaction Gesture Control Recognition for High-performance Embedded AI Computing Platform | 2023 | Article | Advances in Computer and Communication | Todo | Todo |
 | 129 | Dtmm: Deploying tinyml models on extremely weak iot devices with pruning | 2024 | Conference Paper | IEEE INFOCOM | Todo | Todo |
 | 130 | TinyML powered drone in agriculture application | 2024 | Conference Paper | IEEE | Todo | Todo |
-| 131 | Revisiting Convolutional Design for Efficient CNNs: An Empirical Study on Embedded AI Platforms | 2025 | Preprint | Research Square | Todo | Todo |
+| 131 | Revisiting Convolutional Design for Efficient CNNs: An Empirical Study on Embedded AI Platforms | 2025 | Preprint | Research Square | Discard | Duplicated - Springer |
 | 132 | An empirical study of low precision quantization for tinyml | 2022 | Preprint | arXiv | Todo | Todo |
 | 133 | Alternatives for locating people using cameras and embedded ai accelerators: A practical approach | 2021 | Article | Engineering Proceedings | Todo | Todo |
 | 134 | TinyML based physical computing for education | 2022 | Conference Paper | IEEE | Todo | Todo |
 | 135 | Innovative syringe volume detection and calculation using YOLOv8 and embedded AI on Jetson Orin Nano | 2024 | Conference Paper | Springer | Todo | Todo |
 | 136 | Real-Time Embedded AI System for Tomato Pest Detection and Classification Using YOLOv11n and YOLOv11-cls | 2025 | Conference Paper | Springer | Todo | Todo |
-| 137 | Leafsense: A portable, low-cost, low-power plant disease diagnostic device using tinyml | 2024 | Conference Paper | ACM | Todo | Todo |
+| 137 | Leafsense: A portable, low-cost, low-power plant disease diagnostic device using tinyml | 2024 | Conference Paper | ACM | Discard | Duplicated - ACM |
 | 138 | Live Demonstration: Real-time audio and visual inference on the RAMAN TinyML accelerator | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 139 | Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 140 | Embedded AI for wheat yellow rust infection type classification | 2023 | Article | IEEE | Todo | Todo |
@@ -158,13 +158,13 @@
 | 154 | Software Engineering Approaches for TinyML based IoT Embedded Vision: A Systematic Literature Review | 2022 | Preprint | arXiv e-prints | Todo | Todo |
 | 155 | Improving Healthcare AI-Support Systems for Skin Lesion Diagnosis With tinyML | 2025 | Conference Paper | IEEE | Todo | Todo |
 | 156 | A plug-and-play TinyML-based vision system for drone automatic landing | 2023 | Conference Paper | IEEE | Todo | Todo |
-| 157 | Quantization-guided training for compact TinyML models | 2021 | Preprint | OpenReview | Todo | Todo |
+| 157 | Quantization-guided training for compact TinyML models | 2021 | Preprint | OpenReview | Discard | Duplicated item 144 |
 | 158 | Optimizing data compression: Enhanced golomb-rice encoding with parallel decoding strategies for tinyml models | 2024 | Conference Paper | IEEE | Todo | Todo |
 | 159 | UDC: Unified DNAS for compressible TinyML models for neural processing units | 2022 | Conference Paper | NeurIPS | Todo | Todo |
 | 160 | Cashew dataset generation using augmentation and ralsgan and a transfer learning based tinyml approach towards disease detection | 2023 | Preprint | arXiv | Todo | Todo |
 | 161 | HARP-UNET: A Hardware-Accelerated TinyML Framework for Pothole Segmentation and Road Quality Assessment Using UAVs | 2025 | Article | IEEE Transactions | Todo | Todo |
 | 162 | FastKAN-DDD: A novel fast Kolmogorov-Arnold network-based approach for driver drowsiness detection optimized for TinyML deployment | 2025 | Article | PLOS ONE | Todo | Todo |
-| 163 | XimSwap: Many-to-many face swapping for tinyml | 2024 | Article | ACM Transactions on Embedded Computing Systems | Todo | Todo |
+| 163 | XimSwap: Many-to-many face swapping for tinyml | 2024 | Article | ACM Transactions on Embedded Computing Systems | Discard | Duplicated - ACM |
 | 164 | Tiny-machine-learning-based supply canal surface condition monitoring | 2024 | Article | Sensors | Todo | Todo |
 | 165 | Optimized FLOPs-Aware Knowledge Distillation for TinyML Applications in Agriculture | 2025 | Conference Paper | IEEE | Todo | Todo |
 | 166 | TinyML-Based Real-Time Doorway Activity Recognition with a Time-of-Flight Sensor | 2025 | Article | Electronics | Todo | Todo |
@@ -192,5 +192,5 @@
 | 188 | An efficient wildfire detection system for ai-embedded applications using satellite imagery | 2023 | Article | Fire | Todo | Todo |
 | 189 | Electro-optics sensor with embedded edge AI-computing for atmospheric turbulence refractive index structure parameter (C_n^ 2) sensing at high temporal resolution | 2022 | Conference Paper | SPIE | Todo | Todo |
 | 190 | Autonomous, Connected and AI-embedded Multi-Sensor System for Wildlife Monitoring | 2024 | Conference Paper | IEEE | Todo | Todo |
-| 191 | Embedded cloud segmentation using AI: Back on years of experiments in orbit on OPS-SAT | 2023 | Conference Paper | IEEE | Todo | Todo |
+| 191 | Embedded cloud segmentation using AI: Back on years of experiments in orbit on OPS-SAT | 2023 | Conference Paper | IEEE | Discard | Duplicated item 184 |
 | 192 | A practical HW-aware NAS flow for AI vision applications on embedded heterogeneous SoCs | 2025 | Conference Paper | Springer | Todo | Todo |
