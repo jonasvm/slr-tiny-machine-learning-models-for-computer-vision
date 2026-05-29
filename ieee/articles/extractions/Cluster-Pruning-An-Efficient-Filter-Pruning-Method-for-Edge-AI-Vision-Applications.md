@@ -1,5 +1,7 @@
 ## Paper ID: Cluster-Pruning-An-Efficient-Filter-Pruning-Method-for-Edge-AI-Vision-Applications
 
+TinyML classification: Near-TinyML — it targets edge-AI vision deployment on Raspberry Pi, Movidius-NCS, Jetson, CPU, and GPU platforms, but does not provide explicit MCU-class or bare-metal/RTOS TinyML deployment evidence.
+
 ### Basic Info
 - Authors: Chinthaka Gamanayake, Lahiru Jayasinghe, Benny Kai Kiat Ng, Chau Yuen
 - Year: 2020
