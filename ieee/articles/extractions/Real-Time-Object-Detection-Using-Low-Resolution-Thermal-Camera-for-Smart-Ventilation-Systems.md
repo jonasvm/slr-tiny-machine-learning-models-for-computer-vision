@@ -1,5 +1,7 @@
 ## Paper ID: Real-Time-Object-Detection-Using-Low-Resolution-Thermal-Camera-for-Smart-Ventilation-Systems
 
+TinyML classification: Strict TinyML — explicitly deploys FLARE on an STM32F767ZIT6 ARM Cortex-M7 MCU with reported 281.30 KiB Flash, 256.00 KiB RAM, and 303.537 ms latency.
+
 ### Basic Info
 - Authors: Jun-Hee Lee and Eung-Tea Kim
 - Year: 2025
