@@ -1,5 +1,7 @@
 ## Paper ID: Design-Development-and-Evaluation-of-an-Intelligent-Animal-Repelling-System-for-Crop-Protection-Based-on-Embedded-Edge-AI
 
+TinyML classification: Near-TinyML — it targets edge-AI vision deployment on Raspberry Pi, Movidius-NCS, Jetson, CPU, and GPU platforms, but does not provide explicit MCU-class or bare-metal/RTOS TinyML deployment evidence.
+
 TinyML classification: Near-TinyML — the deployment uses Raspberry Pi, Intel Movidius NCS, and NVIDIA Jetson Nano rather than MCU-class TinyML inference.
 
 ### Basic Info
