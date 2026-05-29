@@ -1,5 +1,7 @@
 ## Paper ID: <to be filled manually>
 
+TinyML classification: Strict TinyML — explicitly targets MCU-class deployment with GAP9 RISC-V MCU, low-power on-device inference, INT8 quantization, and reported latency and energy constraints.
+
 ### Basic Info
 - Authors: Liam Boyle; Julian Moosmann; Nicolas Baumann; Seonyeong Heo; Michele Magno
 - Year: 2024
