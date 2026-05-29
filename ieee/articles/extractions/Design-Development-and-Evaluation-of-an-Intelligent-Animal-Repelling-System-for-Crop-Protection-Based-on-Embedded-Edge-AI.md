@@ -1,5 +1,7 @@
 ## Paper ID: Design-Development-and-Evaluation-of-an-Intelligent-Animal-Repelling-System-for-Crop-Protection-Based-on-Embedded-Edge-AI
 
+TinyML classification: Near-TinyML — the deployment uses Raspberry Pi, Intel Movidius NCS, and NVIDIA Jetson Nano rather than MCU-class TinyML inference.
+
 ### Basic Info
 - Authors: Davide Adami, Mike O. Ojo, Stefano Giordano
 - Year: 2021
