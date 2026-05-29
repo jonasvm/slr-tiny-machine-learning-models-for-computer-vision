@@ -1,5 +1,7 @@
 ## Paper ID: Flexible-and-Fully-Quantized-Lightweight-TinyissimoYOLO-for-Ultra-Low-Power-Edge-Systems
 
+TinyML classification: Strict TinyML — The paper explicitly targets MCU-class platforms including ARM Cortex-M devices and GAP9/MAX78000 ultra-low-power MCUs with reported memory, latency, energy, and quantized model constraints.
+
 ### Basic Info
 - Authors: Julian Moosmann; Hanna Müller; Nicky Zimmerman; Georg Rutishauser; Luca Benini; Michele Magno
 - Year: 2024
