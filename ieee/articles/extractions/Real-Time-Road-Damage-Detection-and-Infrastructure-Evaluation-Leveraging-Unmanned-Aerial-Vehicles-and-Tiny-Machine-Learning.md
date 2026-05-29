@@ -1,5 +1,7 @@
 ## Paper ID: Real-Time-Road-Damage-Detection-and-Infrastructure-Evaluation-Leveraging-Unmanned-Aerial-Vehicles-and-Tiny-Machine-Learning
 
+TinyML classification: Near-TinyML — The paper discusses TinyML and resource-constrained UAV/edge devices, but does not report explicit MCU-class deployment, SRAM/Flash constraints, TFLM/CMSIS-NN use, or on-device embedded inference.
+
 ### Basic Info
 
 * Authors: Muhammad Waseem Khan, Mohammad S. Obaidat, Khalid Mahmood, Dania Batool, Hafiz Muhammad Sanaullah Badar, Muhammad Aamir, Wu Gao
