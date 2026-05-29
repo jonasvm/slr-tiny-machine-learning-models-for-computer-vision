@@ -1,5 +1,7 @@
 ## Paper ID: A-Lightweight-Visual-Font-Style-Recognition-With-Quantized-Convolutional-Autoencoder
 
+TinyML classification: Near-TinyML — The paper reports a very small quantized model for edge deployment, but does not provide explicit MCU-class deployment, SRAM/Flash usage, latency, energy, or bare-metal/RTOS evidence.
+
 ### Basic Info
 
 * Authors: Moshiur Rahman Tonmoy; Abdul Fattah Rakib; Rashik Rahman; Md. Akhtaruzzaman Adnan; M. F. Mridha; Jie Huang; Jungpil Shin
