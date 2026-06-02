@@ -13,7 +13,7 @@
 | 43 | Tiny machine learning empowers climbing inspection robots for real-time multiobject bolt-defect detection | 2024 | Article | Engineering Applications of Artificial Intelligence | Keep | TinyML applied to real-time multiobject defect detection in robotic inspection |
 | 46 | Metatinyml: End-to-end metareasoning framework for tinyml platforms | 2024 | Article | IEEE Embedded Systems Letters | Keep | TinyML platform framework includes object detection and multilabel image classification models |
 | 47 | Developing a TinyML image classifier in an hour | 2024 | Article | IEEE Open Journal | Keep | Directly related to TinyML image classification |
-| 51 | Wake vision: A tailored dataset and benchmark suite for TinyML computer vision applications | 2024 | Preprint | arXiv | Keep | Dataset and benchmark suite directly focused on TinyML computer vision applications |
+| 51 | Wake vision: A tailored dataset and benchmark suite for TinyML computer vision applications | 2024 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 53 | Enhancing the energy efficiency and robustness of TinyML computer vision using coarsely-quantized log-gradient input images | 2024 | Article | ACM Transactions on Embedded Computing Systems | Keep | Directly related to energy-efficient TinyML computer vision and image classification |
 | 56 | Robustifying the deployment of tinyml models for autonomous mini-vehicles | 2021 | Article | Sensors | Keep | TinyML deployment for autonomous mini-vehicles using CNN-based computer vision |
 | 59 | TinyML-enabled fuzzy logic for enhanced road anomaly detection in remote sensing | 2025 | Article | Scientific Reports | Keep | TinyML-based remote sensing vision model for road anomaly detection |
@@ -23,7 +23,7 @@
 | 82 | Smart Cattle Behavior Sensing with Embedded Vision and TinyML at the Edge | 2025 | Article | Engineering Proceedings | Keep | Embedded vision and TinyML at the edge for cattle behavior sensing |
 | 101 | Tiny machine learning on the edge: A framework for transfer learning empowered unmanned aerial vehicle assisted smart farming | 2024 | Article | IET Smart Agriculture | Keep | TinyML on edge devices for UAV-assisted smart farming with image classification context |
 | 109 | TinyML for plant disease detection: efficient edge AI solutions for Apple and Mango leaves | 2025 | Article | Procedia Computer Science | Keep | TinyML edge AI for real-time plant disease detection using computer vision |
-| 116 | Robust navigation with tinyML for autonomous mini-vehicles | 2020 | Preprint | arXiv | Keep | TinyML-based autonomous navigation using image classification/computer vision |
+| 116 | Robust navigation with tinyML for autonomous mini-vehicles | 2020 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 119 | TinyML for smart agriculture: Comparative analysis of TinyML platforms and practical deployment for maize leaf disease identification | 2024 | Article | Smart Agricultural Technology | Keep | TinyML deployment for plant disease identification using computer vision |
 | 134 | Real-time strawberry detection using deep neural networks on embedded system (rtsd-net): An edge AI application | 2022 | Article | Computers and Electronics in Agriculture | Keep | Edge AI object detection on embedded systems for agricultural computer vision |
 | 138 | A Multicore and Edge TPU-Accelerated Multimodal TinyML System for Livestock Behavior Recognition | 2025 | Article | IEEE Internet of Things Journal | Keep | TinyML system for livestock behavior recognition with object detection component |
@@ -31,7 +31,7 @@
 | 142 | Efficient solid waste inspection through drone‐based aerial imagery and TinyML vision model | 2024 | Article | Transactions on Emerging Telecommunications Technologies | Keep | TinyML vision model for drone-based aerial imagery and object detection |
 | 148 | An ultra-low power tinyml system for real-time visual processing at edge | 2023 | Article | IEEE Transactions | Keep | Ultra-low-power TinyML system for edge visual processing, object detection, and recognition |
 | 154 | Secure and Low-Power Embedded AI-Based Face Recognition System on the STM32N6570-DK Platform | 2025 | Article | ResearchGate | Keep | Low-power embedded AI face recognition system on STM32 platform |
-| 166 | An Experimental Study of Split-Learning TinyML on Ultra-Low-Power Edge/IoT Nodes | 2025 | Preprint | arXiv | Keep | TinyML on ultra-low-power edge/IoT nodes with image classification/MobileNetV2 use case |
+| 166 | An Experimental Study of Split-Learning TinyML on Ultra-Low-Power Edge/IoT Nodes | 2025 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 174 | On-device Deep Learning for Recognizing 3D Geometric Shapes in an Educational App Using the TinyML Paradigm | 2025 | Article | SBIA | Keep | On-device TinyML deep learning for object recognition in an educational vision application |
 | 176 | TinyML-Based concept system used to analyze whether the face mask is worn properly in Battery-Operated conditions | 2022 | Article | Applied Sciences | Keep | TinyML computer vision system for face-mask detection under battery-operated conditions |
 | 177 | TinyML Induced Portable Food Defect Detection for Edge Computing | 2025 | Article | Internet Technology Letters | Keep | TinyML-based portable edge system for food defect detection |
@@ -50,7 +50,7 @@
 | 210 | Edge impulse vs tensorFlow: a comparative analysis of tinyML platforms for maize leaf disease identification | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 213 | Industrial visual inspection with tinyml for high-performance quality control | 2023 | Article | IEEE Instrumentation & Measurement Magazine | Keep | TinyML applied to industrial visual inspection and quality control |
 | 214 | Method for detecting and tracking foreign objects in substation videos based on embedded AI | 2021 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
-| 216 | Tiny Machine Learning for Hyperspectral Skin Cancer Image Classification | Not reported | Preprint | SSRN | Keep | TinyML applied to hyperspectral medical image classification |
+| 216 | Tiny Machine Learning for Hyperspectral Skin Cancer Image Classification | Not reported | Preprint | SSRN | Discard | preprint is not being selected for this phase. |
 | 219 | Power consumption benchmark for embedded AI inference | 2024 | Conference Paper | KU Leuven Repository | Discard | conference papers are not being selected for this phase |
 | 221 | Proai: An efficient embedded ai hardware for automotive applications-a benchmark study | 2021 | Conference Paper | Conference on Computer Vision | Discard | conference papers are not being selected for this phase |
 | 224 | An ultra-low-power embedded AI fire detection and crowd counting system for indoor areas | 2023 | Article | ACM Transactions | Keep | Ultra-low-power embedded AI system using object detection for fire detection and crowd counting |
@@ -69,7 +69,7 @@
 | 266 | Expanding Applications of TinyML in Versatile Assistive Devices: From Navigation Assistance to Health Monitoring System Using Optimized NASNet-XGBoost | 2024 | Article | IEEE | Keep | TinyML assistive-device application including navigation assistance and optimized visual model |
 | 270 | Enhancing drone-based precision agriculture: Performance optimization of tinyml models on edge devices and adaptive path planning | 2025 | Article | SN Computer Science | Keep | TinyML edge-device optimization for drone-based precision agriculture with image classification |
 | 271 | An Embedded AI Model for Defect Detection in Photovoltaic Modules using a Jetson Nano-Powered Unmanned Aerial Vehicle | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
-| 275 | TinyML-Powered Gesture Wizardry: Low-Cost, Low-Power Two-Stage CNN for Static Hand Gesture Classification on MCU in Appliance Control | 2024 | Conference Paper | ACM | Keep | Vision-based TinyML static hand gesture classification on MCU |
+| 275 | TinyML-Powered Gesture Wizardry: Low-Cost, Low-Power Two-Stage CNN for Static Hand Gesture Classification on MCU in Appliance Control | 2024 | Conference Paper | ACM | Discard | conference papers are not being selected for this phase |
 | 276 | Deep reorganization: Retaining residuals in tinyml | 2024 | Conference Paper | ACM | Discard | conference papers are not being selected for this phase |
 | 281 | On The Dynamic Ensemble Selection for TinyML-based Systems-a Preliminary Study | 2024 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
 | 282 | Bin Occupancy Estimation in Warehouses with a TinyML Vision Sensor | 2025 | Conference Paper | IEEE Sensors | Discard | conference papers are not being selected for this phase |
@@ -82,7 +82,7 @@
 | 296 | A genetic tuner for fixed-skeleton tinyml models | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 297 | Extraction of Measurement Device Information on an ESP32 Microcontroller: TinyML for Image Processing | 2024 | Article | Procedia Computer Science | Keep | TinyML image processing on ESP32 for extracting measurement device information |
 | 300 | Classroom Activity Detection Using TinyML | 2024 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
-| 301 | Tiny machine learning for classifying specialty coffees | 2024 | Preprint | TechRxiv | Keep | TinyML image classification with MobileNetV2 for specialty coffee classification |
+| 301 | Tiny machine learning for classifying specialty coffees | 2024 | Preprint | TechRxiv | Discard | preprint is not being selected for this phase. |
 | 302 | Real-Time Markerless Vision-Based Control of Knuckle Boom Cranes via Embedded AI | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 303 | Tinyml smart sensor for energy saving in internet of things precision agriculture platform | 2022 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 304 | Efficient underwater ecological monitoring with embedded AI: detecting Crown-of-Thorns Starfish via DCGAN and YOLOv6 | 2025 | Article | Frontiers in Marine Science | Keep | Embedded AI object detection for underwater ecological monitoring |
@@ -92,8 +92,8 @@
 | 311 | Human-computer Interaction Gesture Control Recognition for High-performance Embedded AI Computing Platform | 2023 | Article | Advances in Computer and Communication | Keep | Embedded AI computer vision for gesture recognition using CNN/object detection |
 | 312 | Dtmm: Deploying tinyml models on extremely weak iot devices with pruning | 2024 | Conference Paper | IEEE INFOCOM | Discard | conference papers are not being selected for this phase |
 | 313 | TinyML powered drone in agriculture application | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
-| 318 | Revisiting Convolutional Design for Efficient CNNs: An Empirical Study on Embedded AI Platforms | 2025 | Preprint | Research Square | Keep | Efficient CNN study on embedded AI platforms for computer vision |
-| 322 | An empirical study of low precision quantization for tinyml | 2022 | Preprint | arXiv | Keep | TinyML quantization study evaluated on image classification and visual wake words |
+| 318 | Revisiting Convolutional Design for Efficient CNNs: An Empirical Study on Embedded AI Platforms | 2025 | Preprint | Research Square | Discard | preprint is not being selected for this phase. |
+| 322 | An empirical study of low precision quantization for tinyml | 2022 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 324 | Alternatives for locating people using cameras and embedded ai accelerators: A practical approach | 2021 | Article | Engineering Proceedings | Keep | Embedded AI accelerators used for camera-based person localization with computer vision |
 | 325 | TinyML based physical computing for education | 2022 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 329 | Innovative syringe volume detection and calculation using YOLOv8 and embedded AI on Jetson Orin Nano | 2024 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
@@ -105,7 +105,7 @@
 | 351 | iCrop+: An Edge-boosted Crop Disease Detection System via TinyML and LoRa Communication | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 354 | Mobile-based classification and detection of diabetic retinopathy using tinyml | 2023 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 358 | Toward Neuromorphic TinyML for Efficient Visual Perception | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
-| 359 | Quantization-guided training for compact tinyml models | 2021 | Preprint | arXiv | Keep | TinyML quantization study using computer vision person-detection use case |
+| 359 | Quantization-guided training for compact tinyml models | 2021 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 360 | TinyMetaFed: Efficient federated meta-learning for TinyML | 2023 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
 | 361 | Penerapan ESP32-CAM dan TinyML dalam Klasifikasi Gambar Buah dan Sayuran | 2024 | Article | Jutisi: Jurnal Ilmiah | Keep | TinyML image classification for fruits and vegetables using ESP32-CAM |
 | 364 | TinyML‐Enhanced Cloud‐Edge Collaborative Framework for Real‐Time Sport Action Recognition | 2025 | Article | Internet Technology Letters | Keep | TinyML-enhanced framework for real-time sport action recognition with computer vision context |
@@ -122,7 +122,7 @@
 | 392 | Intelligent robot gripper using embedded AI sensor for box re-sequencing system integrated with spatial layout optimization | 2025 | Article | Robotics and Computer-Integrated Manufacturing | Keep | Embedded AI robotic vision/sensor system for industrial box re-sequencing |
 | 393 | The synergy of complex event processing and tiny machine learning in industrial IoT | 2021 | Conference Paper | ACM | Discard | conference papers are not being selected for this phase |
 | 396 | UDC: Unified DNAS for compressible TinyML models for neural processing units | 2022 | Conference Paper | NeurIPS | Discard | conference papers are not being selected for this phase |
-| 400 | Cashew dataset generation using augmentation and ralsgan and a transfer learning based tinyml approach towards disease detection | 2023 | Preprint | arXiv | Keep | TinyML approach for plant disease detection with computer vision context |
+| 400 | Cashew dataset generation using augmentation and ralsgan and a transfer learning based tinyml approach towards disease detection | 2023 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 401 | HARP-UNET: A Hardware-Accelerated TinyML Framework for Pothole Segmentation and Road Quality Assessment Using UAVs | 2025 | Article | IEEE Transactions | Keep | TinyML framework for UAV-based pothole segmentation and road quality assessment |
 | 402 | Context‐Aware TinyML Model for Korean Handwriting Recognition Under Online Assisted Learning Scenes | 2025 | Article | Internet Technology Letters | Keep | TinyML OCR/handwriting recognition task with computer vision context |
 | 406 | MediaPipe-Driven Real-Time Hand Gesture Recognition: An Embedded AI Framework for Adaptive Human-Computer Synergy | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
@@ -132,7 +132,7 @@
 | 416 | Towards embedded AI models for welding defect detection in pipes | 2025 | Conference Paper | IEEE Sensors | Discard | conference papers are not being selected for this phase |
 | 420 | Research on Embedded AI Vision Terminals and Service Optimization Applications for Smart Libraries | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 421 | Predictive method for cleaning photovoltaic plants in desert areas using TinyML and IoT technique | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
-| 426 | A tiny machine learning model for point cloud object classification | 2023 | Preprint | arXiv | Keep | TinyML model for point cloud object classification on mobile/edge devices |
+| 426 | A tiny machine learning model for point cloud object classification | 2023 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 427 | Optimization algorithm of transmission line defect detection and identification based on embedded AI | 2023 | Conference Paper | IEEE Computer Society | Discard | conference papers are not being selected for this phase |
 | 435 | TinyML-CAM: 80 FPS image recognition in 1 kB RAM | 2022 | Conference Paper | ACM | Discard | conference papers are not being selected for this phase |
 | 436 | QUTE: Quantifying Uncertainty in TinyML models with Early-exit-assisted ensembles for model-monitoring | 2025 | Conference Paper | OpenReview | Discard | conference papers are not being selected for this phase |
@@ -142,18 +142,18 @@
 | 450 | Optimized Binary Neural Networks for Road Anomaly Detection: A TinyML Approach on Edge Devices. | 2024 | Article | Computers, Materials & Continua | Keep | TinyML edge-device road anomaly detection with remote sensing/computer vision context |
 | 452 | Design, development and evaluation of an intelligent animal repelling system for crop protection based on embedded edge-AI | 2021 | Article | IEEE Access | Keep | Embedded edge-AI crop protection system using YOLO/Tiny-YOLO object detection |
 | 458 | GenCPruneX: Adaptive channel-wise pruning for efficient TinyML deployment with genetic multi-objective optimization | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
-| 459 | UDC: Unified DNAS for compressible TinyML models | 2022 | Preprint | arXiv | Keep | TinyML neural architecture search/compression evaluated on image classification benchmarks |
+| 459 | UDC: Unified DNAS for compressible TinyML models | 2022 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 469 | TinyML implementation on microcontrollers: the case of maize leaf disease identification | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 475 | Edge impulse and TinyML: An integrated solution for weed classification | 2023 | Conference Paper | Conference Proceedings | Discard | conference papers are not being selected for this phase |
 | 476 | A TinyML model for gesture-based air handwriting Arabic numbers recognition | 2024 | Article | Procedia Computer Science | Keep | TinyML gesture/air-handwriting recognition task |
 | 478 | Tiny machine learning for underwater image enhancement: pruning and quantization approach | 2023 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 479 | TinyAirNet: TinyML model transmission for energy-efficient image retrieval from IoT devices | 2024 | Article | IEEE | Keep | TinyML model transmission for energy-efficient image retrieval from IoT devices |
 | 483 | Energy-efficient inference on the edge exploiting TinyML capabilities for UAVs | 2021 | Article | Drones | Keep | TinyML edge inference for UAV deployment on MCU-class devices |
-| 487 | DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing | 2024 | Preprint | arXiv | Keep | TinyML debugging method evaluated on image classification tasks |
+| 487 | DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing | 2024 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 490 | Assessing the potential of Qormino processor for embedded AI on board a CubeSat | 2022 | Article | IEEE Journal | Keep | Embedded AI on-board CubeSat image classification evaluation |
 | 491 | Mirror: Embedded AI Mirror for Thermal Tumor Screening and Remote Monitoring | Not reported | Article | ResearchGate | Keep | Embedded AI thermal imaging system for tumor screening and remote monitoring |
-| 494 | Towards contactless elevators with tinyml using cnn-based person detection and keyword spotting | 2024 | Preprint | arXiv | Keep | TinyML system using CNN-based person detection on constrained device |
-| 495 | ĐÁNH GIÁ HIỆU SUẤT CỦA CÁC MÔ HÌNH PHÂN LOẠI HÌNH ẢNH TINYML LƯỢNG TỬ HÓA TRÊN NỀN TẢNG UAV MÔ PHỎNG CHO ỨNG DỤNG GIÁM SÁT … | 2025 | Article | Tạp chí Khoa học Trường Đại học Mở Hà Nội | Keep | Quantized TinyML image classification models for UAV-based agricultural monitoring |
+| 494 | Towards contactless elevators with tinyml using cnn-based person detection and keyword spotting | 2024 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
+| 495 | ĐÁNH GIÁ HIỆU SUẤT CỦA CÁC MÔ HÌNH PHÂN LOẠI HÌNH ẢNH TINYML LƯỢNG TỬ HÓA TRÊN NỀN TẢNG UAV MÔ PHỎNG CHO ỨNG DỤNG GIÁM SÁT … | 2025 | Article | Tạp chí Khoa học Trường Đại học Mở Hà Nội | Discard | Not in english |
 | 511 | SmartFruit: an Embedded AI System to Detect Fruit Ripeness and Prevent Food Waste | 2025 | Conference Paper | IEEE Sensors | Discard | conference papers are not being selected for this phase |
 | 516 | Research on Optimization Algorithm of Embedded AI Real-Time Deep Learning Model in IoT Devices | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 533 | Embedded AI system for interactive vision screen based on human action recognition | 2022 | Article | Review of Scientific Instruments | Keep | Embedded AI vision system for human action recognition |
@@ -161,7 +161,7 @@
 | 537 | Multimodal Interface for Games: A Case Study with TinyML | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 542 | Lite-agro 2.0: Integrating federated and tinyml in pear disease classification ioat-edge ai | 2023 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 550 | A real-time American Sign Language (ASL) alphabet recognition system for assistive communication using TinyML | 2025 | Conference Paper | MATEC Web of Conferences | Discard | conference papers are not being selected for this phase |
-| 551 | TGTM: TinyML-based Global Tone Mapping for HDR Sensors | 2024 | Preprint | arXiv | Keep | TinyML-based image tone mapping method for HDR sensor visual processing |
+| 551 | TGTM: TinyML-based Global Tone Mapping for HDR Sensors | 2024 | Preprint | arXiv | Discard | preprint is not being selected for this phase. |
 | 567 | Design and Implementation of an Image Recognition System Based on the Embedded AI SOC Chip YuLong810A | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 571 | Real-Time Arabic Digit Spotting with TinyML-Optimized CNNs on Edge Devices | 2023 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
 | 574 | Edge Intelligence for Fire Disaster Mitigation Using IoT and TinyML | 2025 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
@@ -175,7 +175,7 @@
 | 642 | Achieving high TinyML accuracy through selective cloud interactions | 2022 | Workshop Paper | Dynamic Neural Networks Workshop | Keep | TinyML accuracy method evaluated on image classification datasets |
 | 655 | TinyML Applications: Airwriting System Applied with TinyML for Vietnamese Handwriting Recognition | 2025 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
 | 659 | TinyML Model for Solar Cell Defect Classification Based on Electroluminescence Images | 2024 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
-| 667 | Embedded AI-Enabled Microscopy for Real-Time Marine Microorganism Identification and Counting | 2025 | Preprint | SSRN | Keep | Embedded AI microscopy for real-time visual identification and counting |
+| 667 | Embedded AI-Enabled Microscopy for Real-Time Marine Microorganism Identification and Counting | 2025 | Preprint | SSRN | Discard | preprint is not being selected for this phase. |
 | 669 | Image enhancement by jetson tx2 embedded ai computing device | 2019 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 672 | Development and Prototyping of a Speech-To-Text (STT) Model and Lip Recognition Software for Tiny Machine Learning (TinyML) Systems | 2024 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
 | 680 | TinyML tabanlı görsel işitsel anahtar kelime tespiti | 2024 | Article | Niğde Ömer Halisdemir Üniversitesi | Keep | TinyML-based visual-audio keyword detection with a visual component |
