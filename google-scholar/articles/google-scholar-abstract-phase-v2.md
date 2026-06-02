@@ -176,7 +176,6 @@
 | 655 | TinyML Applications: Airwriting System Applied with TinyML for Vietnamese Handwriting Recognition | 2025 | Conference Paper | Springer | Keep | TinyML airwriting/handwriting recognition application |
 | 659 | TinyML Model for Solar Cell Defect Classification Based on Electroluminescence Images | 2024 | Conference Paper | Springer | Keep | TinyML image classification for solar cell defect detection |
 | 667 | Embedded AI-Enabled Microscopy for Real-Time Marine Microorganism Identification and Counting | 2025 | Preprint | SSRN | Keep | Embedded AI microscopy for real-time visual identification and counting |
-| 668 | An Innovative Research on the Integration of Literary Aesthetic Artistic Embodiment and Embedded AI System-on-Chip Based on Virtual Reality Technology | 2024 | Article | International Journal of High Speed Electronics and Systems | Discard | VR/literary aesthetics application, not computer vision TinyML |
 | 669 | Image enhancement by jetson tx2 embedded ai computing device | 2019 | Conference Paper | IEEE | Keep | Embedded AI device used for image enhancement |
 | 672 | Development and Prototyping of a Speech-To-Text (STT) Model and Lip Recognition Software for Tiny Machine Learning (TinyML) Systems | 2024 | Conference Paper | Springer | Keep | TinyML system includes lip recognition, a computer vision task |
 | 680 | TinyML tabanlı görsel işitsel anahtar kelime tespiti | 2024 | Article | Niğde Ömer Halisdemir Üniversitesi | Keep | TinyML-based visual-audio keyword detection with a visual component |
@@ -191,4 +190,3 @@
 | 749 | Autonomous, Connected and AI-embedded Multi-Sensor System for Wildlife Monitoring | 2024 | Conference Paper | IEEE | Keep | Embedded AI wildlife monitoring system with local image classification |
 | 753 | Embedded cloud segmentation using AI: Back on years of experiments in orbit on OPS-SAT | 2023 | Conference Paper | IEEE | Keep | Embedded AI satellite/cloud image segmentation experiments in orbit |
 | 759 | A practical HW-aware NAS flow for AI vision applications on embedded heterogeneous SoCs | 2025 | Conference Paper | Springer | Keep | Hardware-aware NAS for embedded AI vision applications on heterogeneous SoCs |
-| 760 | The future of ai can be kind: strategies for embedded ethics in ai education | 2024 | Book | ProQuest | Discard | Book/ethics education work, not a primary computer vision study |
