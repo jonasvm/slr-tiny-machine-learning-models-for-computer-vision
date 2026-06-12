@@ -1,4 +1,4 @@
-## Paper ID: <to be filled manually>
+## Paper ID: DSORT-MCU-Detecting-Small-Objects-in-Real-Time-on-Microcontroller-Units
 
 TinyML classification: Strict TinyML — explicitly targets MCU-class deployment with GAP9 RISC-V MCU, low-power on-device inference, INT8 quantization, and reported latency and energy constraints.
 
