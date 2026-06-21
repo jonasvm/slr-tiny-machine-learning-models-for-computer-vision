@@ -114,6 +114,6 @@
 | 110 | Real-Time Embedded Vision System for the Watchfulness Analysis of Train Drivers | 2021 | Journal Article | IEEE Transactions on Intelligent Transportation Systems | todo | todo |
 | 111 | EQ-ViT: Algorithm-Hardware Co-Design for End-to-End Acceleration of Real-Time Vision Transformer Inference on Versal ACAP Architecture | 2024 | Journal Article | IEEE TCAD | todo | todo |
 | 112 | DIR-BHRNet: A Lightweight Network for Real-Time Vision-Based Multiperson Pose Estimation on Smartphones | 2024 | Journal Article | IEEE Transactions on Industrial Informatics | todo | todo |
-| 113 | Energy-Efficient Federated Learning for Edge Real-Time Vision via Joint Data, Computation, and Communication Design | 2025 | Journal Article | IEEE Journal on Selected Areas in Communications | todo | todo |
+| 113 | Energy-Efficient Federated Learning for Edge Real-Time Vision via Joint Data, Computation, and Communication Design | 2025 | Journal Article | IEEE Journal on Selected Areas in Communications | Discard | Duplicated |
 | 114 | LFD-Net: Lightweight Feature-Interaction Dehazing Network for Real-Time Remote Sensing Tasks | 2023 | Journal Article | IEEE JSTARS | Keep | The paper proposes a lightweight real-time remote-sensing image dehazing network for edge-oriented vision tasks and evaluates downstream object detection improvement, but not MCU-class deployment. |
 | 115 | A Lightweight NMS-Free Framework for Real-Time Visual Fault Detection System of Freight Trains | 2022 | Journal Article | IEEE Transactions on Instrumentation and Measurement | todo | todo |
