@@ -59,7 +59,7 @@
 | 55 | Fast and Accurate Inference on Microcontrollers With Boosted Cooperative Convolutional Neural Networks (BC-Net) | 2021 | Journal Article | IEEE Transactions on Circuits and Systems I: Regular Papers | todo | todo |
 | 56 | A Lightweight Edge Computing Neural Network for Online Photovoltaic Defect Inspection | 2025 | Journal Article | IEEE Transactions on Instrumentation and Measurement | todo | todo |
 | 57 | Design and Implementation of Tiny Deep Neural Networks for Landing Pad Detection on UAVs | 2024 | Journal Article | IEEE Access | Keep | Targets landing-pad computer vision on STM32/ARM Cortex-M microcontrollers with reported latency, memory, energy, and model-size constraints. |
-| 58 | Energy-Efficient Federated Learning for Edge Real-Time Vision via Joint Data, Computation, and Communication Design | 2025 | Journal Article | IEEE Journal on Selected Areas in Communications | todo | todo |
+| 58 | Energy-Efficient Federated Learning for Edge Real-Time Vision via Joint Data, Computation, and Communication Design | 2025 | Journal Article | IEEE Journal on Selected Areas in Communications | Discard | Duplicated |
 | 59 | Lightweight Deep Learning Based Intelligent Edge Surveillance Techniques | 2020 | Journal Article | IEEE Transactions on Cognitive Communications and Networking | todo | todo|
 | 60 | Attention to Task-Aligned Object Detection for End–Edge–Cloud Video Surveillance | 2024 | Journal Article | IEEE Internet of Things Journal | todo | todo |
 | 61 | A Decentralized Federated Learning Framework for On-Device Image Classification in Consumer Electronics | 2025 | Journal Article | IEEE Transactions on Consumer Electronics | todo | todo |
