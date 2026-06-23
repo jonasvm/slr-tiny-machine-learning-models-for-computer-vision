@@ -190,3 +190,4 @@
 | 188 | Autonomous, Connected and AI-embedded Multi-Sensor System for Wildlife Monitoring | 2024 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 189 | Embedded cloud segmentation using AI: Back on years of experiments in orbit on OPS-SAT | 2023 | Conference Paper | IEEE | Discard | conference papers are not being selected for this phase |
 | 190 | A practical HW-aware NAS flow for AI vision applications on embedded heterogeneous SoCs | 2025 | Conference Paper | Springer | Discard | conference papers are not being selected for this phase |
+| 191 | Tinyissimoyolo: A quantized, low-memory footprint, tinyml object detection network for low power microcontrollers | 2023 | Preprint | arXiv | Keep | TinyML object detection network for low-power microcontrollers |
