@@ -36,12 +36,6 @@ Selection criteria applied during screening:
 - Papers not clearly related to embedded, constrained, low-power, or edge AI systems
 - Broad AI, IoT, security, hardware, or systems papers without a clear computer vision and constrained-device focus
 
-**Notes**
-
-Title-based screening was used for this initial classification.  
-Papers marked as Keep should be checked in full text or abstract screening.  
-Papers marked as Discard are considered outside the scope of TinyML / Edge AI for computer vision.
-
 ---
 
 # ACM - Initial Screening Table
